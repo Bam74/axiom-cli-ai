@@ -1,0 +1,247 @@
+Document_ID,Project_ID,Document_Type,Title,Version,Document_Date,Approved_For_Demo_Use,Content_Text
+DOC-001,PRJ-001,Weekly Progress Report,Weekly Progress Report - Week 38,v1.0,2026-10-06,1,"
+Project: Astra Heights Tower 2
+Reporting week: Week 38 ending 6 October 2026
+Approved baseline progress: 71.0%
+Actual physical progress: 68.0%
+Overall status: AMBER
+
+Key updates:
+1. MEP installation is 12 days behind the approved look-ahead schedule. The prior week variance was 7 days.
+2. Elevator equipment delivery has moved from 14 October 2026 to 3 November 2026 following supplier logistics constraints.
+3. Structural punch-list backlog decreased by 18% week on week.
+4. Three RFIs have remained open for more than 14 days: RFI-014, RFI-019 and RFI-023.
+
+Upcoming milestones:
+- Podium waterproofing inspection: 10 October 2026
+- Tower 2 electrical energization: baseline 18 October 2026; current forecast 21 October 2026
+- Model unit handover: 28 October 2026
+- Elevator equipment delivery: baseline 14 October 2026; current forecast 3 November 2026
+
+Management attention:
+Review alternative elevator installation sequencing and accelerate closure of the three aging RFIs to protect the December vertical transport readiness milestone.
+"
+DOC-002,PRJ-001,Weekly Progress Report,Weekly Progress Report - Week 37,v1.0,2026-09-29,1,"
+Project: Astra Heights Tower 2
+Reporting week: Week 37 ending 29 September 2026
+Approved baseline progress: 69.0%
+Actual physical progress: 66.0%
+Overall status: AMBER
+
+Key updates:
+1. MEP installation is 7 days behind the approved look-ahead schedule.
+2. Elevator equipment delivery remains scheduled for 14 October 2026.
+3. Structural and architectural works remain broadly on sequence.
+4. Two RFIs have remained open for more than 14 days.
+
+Management attention:
+Monitor the MEP recovery plan and aging RFI closure.
+"
+DOC-003,PRJ-001,Contractor Update,MEP Contractor Update,v3.2,2026-10-05,1,"
+The MEP contractor reports a 12-day variance against the current look-ahead schedule, primarily in electrical containment and riser coordination. Additional evening work has been proposed for the next two weeks. Recovery is dependent on closure of RFI-019 and RFI-023. No quality hold point has been released without inspection.
+"
+DOC-004,PRJ-001,Project Schedule,Project Schedule v14 - Key Milestones,v14,2026-10-04,1,"
+Key baseline and forecast dates:
+Podium waterproofing inspection — baseline 10 Oct 2026 / forecast 10 Oct 2026
+Tower 2 electrical energization — baseline 18 Oct 2026 / forecast 21 Oct 2026
+Model unit handover — baseline 28 Oct 2026 / forecast 28 Oct 2026
+Elevator equipment delivery — baseline 14 Oct 2026 / forecast 3 Nov 2026
+Vertical transport readiness — baseline 15 Dec 2026 / forecast 22 Dec 2026
+"
+DOC-005,PRJ-001,Meeting Minutes,Project Coordination Meeting - 28 September 2026,v1.0,2026-09-28,1,"
+Decisions and actions:
+- Design Manager to close RFI-014 by 2 October.
+- MEP Manager to submit a two-week recovery sequence.
+- Procurement Lead to confirm elevator shipment status with supplier.
+- Project Controls to compare the revised sequence against December vertical transport readiness.
+Owners remain accountable for evidence of closure before items are marked complete.
+"
+DOC-006,PRJ-001,Budget Summary,Budget Summary - September 2026,v1.0,2026-09-30,1,"
+Approved project budget: PHP 4.200 billion.
+Current committed cost: PHP 2.875 billion.
+Forecast final cost: PHP 4.234 billion.
+Forecast variance: +0.8% versus approved budget.
+No immediate budget escalation is required. Cost exposure should continue to be monitored for acceleration measures related to MEP recovery and elevator sequencing.
+"
+DOC-007,PRJ-002,Weekly Progress Report,South Coast Residences - Week 38 Progress Report,v1.0,2026-10-06,1,"
+Project: South Coast Residences
+City: Mandaue City
+Overall status: GREEN
+Planned progress: 47.0%
+Actual progress: 46.5%
+Forecast final cost: PHP 3090.0 million against approved budget of PHP 3100.0 million.
+
+Current week summary:
+Primary work packages are progressing under the approved project controls process. Open actions have assigned owners. Any critical change requires human review before a business decision is made.
+"
+DOC-008,PRJ-002,Meeting Minutes,South Coast Residences - Weekly Coordination Minutes,v1.0,2026-10-02,1,"
+Project: South Coast Residences
+Key meeting actions:
+- Verify near-term milestone readiness.
+- Close aging coordination items using source evidence.
+- Confirm that schedule and budget commentary uses the current approved baseline.
+- Escalate only issues that require management judgment.
+"
+DOC-009,PRJ-002,Budget Summary,South Coast Residences - Budget Snapshot,v1.0,2026-09-30,1,"
+Project: South Coast Residences
+Approved budget: PHP 3100.0 million.
+Committed cost: PHP 1750.0 million.
+Forecast final cost: PHP 3090.0 million.
+The figures are synthetic training data. Financial interpretation requires review by the responsible project and finance leads.
+"
+DOC-010,PRJ-003,Weekly Progress Report,Central Park Tower - Week 38 Progress Report,v1.0,2026-10-06,1,"
+Project: Central Park Tower
+City: Cagayan de Oro City
+Overall status: AMBER
+Planned progress: 100.0%
+Actual progress: 99.2%
+Forecast final cost: PHP 3618.0 million against approved budget of PHP 3600.0 million.
+
+Current week summary:
+Primary work packages are progressing under the approved project controls process. Open actions have assigned owners. Any critical change requires human review before a business decision is made.
+"
+DOC-011,PRJ-003,Meeting Minutes,Central Park Tower - Weekly Coordination Minutes,v1.0,2026-10-02,1,"
+Project: Central Park Tower
+Key meeting actions:
+- Verify near-term milestone readiness.
+- Close aging coordination items using source evidence.
+- Confirm that schedule and budget commentary uses the current approved baseline.
+- Escalate only issues that require management judgment.
+"
+DOC-012,PRJ-003,Budget Summary,Central Park Tower - Budget Snapshot,v1.0,2026-09-30,1,"
+Project: Central Park Tower
+Approved budget: PHP 3600.0 million.
+Committed cost: PHP 3530.0 million.
+Forecast final cost: PHP 3618.0 million.
+The figures are synthetic training data. Financial interpretation requires review by the responsible project and finance leads.
+"
+DOC-013,PRJ-004,Weekly Progress Report,Harborview Residences - Week 38 Progress Report,v1.0,2026-10-06,1,"
+Project: Harborview Residences
+City: Lapu-Lapu City
+Overall status: GREEN
+Planned progress: 31.0%
+Actual progress: 32.0%
+Forecast final cost: PHP 5075.0 million against approved budget of PHP 5100.0 million.
+
+Current week summary:
+Primary work packages are progressing under the approved project controls process. Open actions have assigned owners. Any critical change requires human review before a business decision is made.
+"
+DOC-014,PRJ-004,Meeting Minutes,Harborview Residences - Weekly Coordination Minutes,v1.0,2026-10-02,1,"
+Project: Harborview Residences
+Key meeting actions:
+- Verify near-term milestone readiness.
+- Close aging coordination items using source evidence.
+- Confirm that schedule and budget commentary uses the current approved baseline.
+- Escalate only issues that require management judgment.
+"
+DOC-015,PRJ-004,Budget Summary,Harborview Residences - Budget Snapshot,v1.0,2026-09-30,1,"
+Project: Harborview Residences
+Approved budget: PHP 5100.0 million.
+Committed cost: PHP 1890.0 million.
+Forecast final cost: PHP 5075.0 million.
+The figures are synthetic training data. Financial interpretation requires review by the responsible project and finance leads.
+"
+DOC-016,PRJ-005,Weekly Progress Report,Riverfront District Residences - Week 38 Progress Report,v1.0,2026-10-06,1,"
+Project: Riverfront District Residences
+City: Davao City
+Overall status: GREEN
+Planned progress: 52.0%
+Actual progress: 52.4%
+Forecast final cost: PHP 6180.0 million against approved budget of PHP 6200.0 million.
+
+Current week summary:
+Primary work packages are progressing under the approved project controls process. Open actions have assigned owners. Any critical change requires human review before a business decision is made.
+"
+DOC-017,PRJ-005,Meeting Minutes,Riverfront District Residences - Weekly Coordination Minutes,v1.0,2026-10-02,1,"
+Project: Riverfront District Residences
+Key meeting actions:
+- Verify near-term milestone readiness.
+- Close aging coordination items using source evidence.
+- Confirm that schedule and budget commentary uses the current approved baseline.
+- Escalate only issues that require management judgment.
+"
+DOC-018,PRJ-005,Budget Summary,Riverfront District Residences - Budget Snapshot,v1.0,2026-09-30,1,"
+Project: Riverfront District Residences
+Approved budget: PHP 6200.0 million.
+Committed cost: PHP 3380.0 million.
+Forecast final cost: PHP 6180.0 million.
+The figures are synthetic training data. Financial interpretation requires review by the responsible project and finance leads.
+"
+DOC-019,PRJ-006,Weekly Progress Report,Northgate Commons - Week 38 Progress Report,v1.0,2026-10-06,1,"
+Project: Northgate Commons
+City: Iloilo City
+Overall status: GREEN
+Planned progress: 35.0%
+Actual progress: 34.7%
+Forecast final cost: PHP 2794.0 million against approved budget of PHP 2800.0 million.
+
+Current week summary:
+Primary work packages are progressing under the approved project controls process. Open actions have assigned owners. Any critical change requires human review before a business decision is made.
+"
+DOC-020,PRJ-006,Meeting Minutes,Northgate Commons - Weekly Coordination Minutes,v1.0,2026-10-02,1,"
+Project: Northgate Commons
+Key meeting actions:
+- Verify near-term milestone readiness.
+- Close aging coordination items using source evidence.
+- Confirm that schedule and budget commentary uses the current approved baseline.
+- Escalate only issues that require management judgment.
+"
+DOC-021,PRJ-006,Budget Summary,Northgate Commons - Budget Snapshot,v1.0,2026-09-30,1,"
+Project: Northgate Commons
+Approved budget: PHP 2800.0 million.
+Committed cost: PHP 1260.0 million.
+Forecast final cost: PHP 2794.0 million.
+The figures are synthetic training data. Financial interpretation requires review by the responsible project and finance leads.
+"
+DOC-022,PRJ-007,Weekly Progress Report,Seaside Grove - Week 38 Progress Report,v1.0,2026-10-06,1,"
+Project: Seaside Grove
+City: Bacolod City
+Overall status: GREEN
+Planned progress: 24.0%
+Actual progress: 24.3%
+Forecast final cost: PHP 2488.0 million against approved budget of PHP 2500.0 million.
+
+Current week summary:
+Primary work packages are progressing under the approved project controls process. Open actions have assigned owners. Any critical change requires human review before a business decision is made.
+"
+DOC-023,PRJ-007,Meeting Minutes,Seaside Grove - Weekly Coordination Minutes,v1.0,2026-10-02,1,"
+Project: Seaside Grove
+Key meeting actions:
+- Verify near-term milestone readiness.
+- Close aging coordination items using source evidence.
+- Confirm that schedule and budget commentary uses the current approved baseline.
+- Escalate only issues that require management judgment.
+"
+DOC-024,PRJ-007,Budget Summary,Seaside Grove - Budget Snapshot,v1.0,2026-09-30,1,"
+Project: Seaside Grove
+Approved budget: PHP 2500.0 million.
+Committed cost: PHP 920.0 million.
+Forecast final cost: PHP 2488.0 million.
+The figures are synthetic training data. Financial interpretation requires review by the responsible project and finance leads.
+"
+DOC-025,PRJ-008,Weekly Progress Report,Ridgeview District - Week 38 Progress Report,v1.0,2026-10-06,1,"
+Project: Ridgeview District
+City: General Santos City
+Overall status: GREEN
+Planned progress: 12.0%
+Actual progress: 12.5%
+Forecast final cost: PHP 3885.0 million against approved budget of PHP 3900.0 million.
+
+Current week summary:
+Primary work packages are progressing under the approved project controls process. Open actions have assigned owners. Any critical change requires human review before a business decision is made.
+"
+DOC-026,PRJ-008,Meeting Minutes,Ridgeview District - Weekly Coordination Minutes,v1.0,2026-10-02,1,"
+Project: Ridgeview District
+Key meeting actions:
+- Verify near-term milestone readiness.
+- Close aging coordination items using source evidence.
+- Confirm that schedule and budget commentary uses the current approved baseline.
+- Escalate only issues that require management judgment.
+"
+DOC-027,PRJ-008,Budget Summary,Ridgeview District - Budget Snapshot,v1.0,2026-09-30,1,"
+Project: Ridgeview District
+Approved budget: PHP 3900.0 million.
+Committed cost: PHP 625.0 million.
+Forecast final cost: PHP 3885.0 million.
+The figures are synthetic training data. Financial interpretation requires review by the responsible project and finance leads.
+"

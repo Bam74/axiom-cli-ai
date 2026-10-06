@@ -1,0 +1,41 @@
+Milestone_ID,Project_ID,Milestone_Name,Baseline_Date,Forecast_Date,Variance_Days,Status,Owner
+MS-001,PRJ-001,Podium waterproofing inspection,2026-10-10,2026-10-10,0,Upcoming,Daniel Cruz
+MS-002,PRJ-001,Tower 2 electrical energization,2026-10-18,2026-10-21,3,At Risk,Daniel Cruz
+MS-003,PRJ-001,Model unit handover,2026-10-28,2026-10-28,0,Upcoming,Daniel Cruz
+MS-004,PRJ-001,Elevator equipment delivery,2026-10-14,2026-11-03,20,Delayed,Daniel Cruz
+MS-005,PRJ-001,December vertical transport readiness,2026-12-15,2026-12-22,7,At Risk,Daniel Cruz
+MS-006,PRJ-002,Foundation / structural milestone,2026-10-28,2026-10-27,-1,Upcoming,Angela Tan
+MS-007,PRJ-002,MEP systems milestone,2026-11-25,2026-11-27,2,Watch,Angela Tan
+MS-008,PRJ-002,Architectural / finishing milestone,2026-12-23,2026-12-24,1,Upcoming,Angela Tan
+MS-009,PRJ-002,Testing / inspection milestone,2027-01-20,2027-01-20,0,Upcoming,Angela Tan
+MS-010,PRJ-002,Turnover / opening milestone,2027-02-17,2027-02-19,2,Watch,Angela Tan
+MS-011,PRJ-003,Foundation / structural milestone,2026-11-11,2026-11-11,0,Upcoming,Marco Villanueva
+MS-012,PRJ-003,MEP systems milestone,2026-12-09,2026-12-09,0,Upcoming,Marco Villanueva
+MS-013,PRJ-003,Architectural / finishing milestone,2027-01-06,2027-01-06,0,Upcoming,Marco Villanueva
+MS-014,PRJ-003,Testing / inspection milestone,2027-02-03,2027-02-03,0,Upcoming,Marco Villanueva
+MS-015,PRJ-003,Turnover / opening milestone,2027-03-03,2027-03-02,-1,Upcoming,Marco Villanueva
+MS-016,PRJ-004,Foundation / structural milestone,2026-11-11,2026-11-10,-1,Upcoming,Bianca Lee
+MS-017,PRJ-004,MEP systems milestone,2026-12-09,2026-12-09,0,Upcoming,Bianca Lee
+MS-018,PRJ-004,Architectural / finishing milestone,2027-01-06,2027-01-06,0,Upcoming,Bianca Lee
+MS-019,PRJ-004,Testing / inspection milestone,2027-02-03,2027-02-02,-1,Upcoming,Bianca Lee
+MS-020,PRJ-004,Turnover / opening milestone,2027-03-03,2027-03-02,-1,Upcoming,Bianca Lee
+MS-021,PRJ-005,Foundation / structural milestone,2026-11-16,2026-11-15,-1,Upcoming,Paolo Garcia
+MS-022,PRJ-005,MEP systems milestone,2026-12-14,2026-12-14,0,Upcoming,Paolo Garcia
+MS-023,PRJ-005,Architectural / finishing milestone,2027-01-11,2027-01-12,1,Upcoming,Paolo Garcia
+MS-024,PRJ-005,Testing / inspection milestone,2027-02-08,2027-02-09,1,Upcoming,Paolo Garcia
+MS-025,PRJ-005,Turnover / opening milestone,2027-03-08,2027-03-08,0,Upcoming,Paolo Garcia
+MS-026,PRJ-006,Foundation / structural milestone,2026-10-22,2026-10-22,0,Upcoming,Rachel Ong
+MS-027,PRJ-006,MEP systems milestone,2026-11-19,2026-11-19,0,Upcoming,Rachel Ong
+MS-028,PRJ-006,Architectural / finishing milestone,2026-12-17,2026-12-19,2,Watch,Rachel Ong
+MS-029,PRJ-006,Testing / inspection milestone,2027-01-14,2027-01-13,-1,Upcoming,Rachel Ong
+MS-030,PRJ-006,Turnover / opening milestone,2027-02-11,2027-02-11,0,Upcoming,Rachel Ong
+MS-031,PRJ-007,Foundation / structural milestone,2026-10-30,2026-11-01,2,Watch,Nathan Yu
+MS-032,PRJ-007,MEP systems milestone,2026-11-27,2026-11-26,-1,Upcoming,Nathan Yu
+MS-033,PRJ-007,Architectural / finishing milestone,2026-12-25,2026-12-26,1,Upcoming,Nathan Yu
+MS-034,PRJ-007,Testing / inspection milestone,2027-01-22,2027-01-22,0,Upcoming,Nathan Yu
+MS-035,PRJ-007,Turnover / opening milestone,2027-02-19,2027-02-18,-1,Upcoming,Nathan Yu
+MS-036,PRJ-008,Foundation / structural milestone,2026-10-31,2026-10-31,0,Upcoming,Sofia Mendoza
+MS-037,PRJ-008,MEP systems milestone,2026-11-28,2026-11-28,0,Upcoming,Sofia Mendoza
+MS-038,PRJ-008,Architectural / finishing milestone,2026-12-26,2026-12-26,0,Upcoming,Sofia Mendoza
+MS-039,PRJ-008,Testing / inspection milestone,2027-01-23,2027-01-23,0,Upcoming,Sofia Mendoza
+MS-040,PRJ-008,Turnover / opening milestone,2027-02-20,2027-02-21,1,Upcoming,Sofia Mendoza

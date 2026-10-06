@@ -1,0 +1,17 @@
+Project_ID,Project_Name,Month,Inquiries,Matured_Lead_Conversion_Rate_Pct,Qualified_Lead_Pct,Reservations,Notes
+PRJ-001,Astra Heights Tower 2,2026-09,171,10.1,16.5,17,Conversion rate is measured on matured lead cohorts and may not equal same-month reservations divided by inquiries.
+PRJ-001,Astra Heights Tower 2,2026-10,188,9.9,15.8,19,Conversion rate is measured on matured lead cohorts and may not equal same-month reservations divided by inquiries.
+PRJ-002,South Coast Residences,2026-09,250,12.4,22,31,Conversion rate is measured on matured lead cohorts and may not equal same-month reservations divided by inquiries.
+PRJ-002,South Coast Residences,2026-10,295,8.9,18,26,Conversion rate is measured on matured lead cohorts and may not equal same-month reservations divided by inquiries.
+PRJ-003,Central Park Tower,2026-09,202,9.2,16.4,19,Conversion rate is measured on matured lead cohorts and may not equal same-month reservations divided by inquiries.
+PRJ-003,Central Park Tower,2026-10,211,10.1,16.8,21,Conversion rate is measured on matured lead cohorts and may not equal same-month reservations divided by inquiries.
+PRJ-004,Harborview Residences,2026-09,254,10.7,17.1,27,Conversion rate is measured on matured lead cohorts and may not equal same-month reservations divided by inquiries.
+PRJ-004,Harborview Residences,2026-10,266,10.9,20.7,29,Conversion rate is measured on matured lead cohorts and may not equal same-month reservations divided by inquiries.
+PRJ-005,Riverfront District Residences,2026-09,189,13.2,19.6,25,Conversion rate is measured on matured lead cohorts and may not equal same-month reservations divided by inquiries.
+PRJ-005,Riverfront District Residences,2026-10,204,13,23.5,27,Conversion rate is measured on matured lead cohorts and may not equal same-month reservations divided by inquiries.
+PRJ-006,Northgate Commons,2026-09,140,12.2,16.9,17,Conversion rate is measured on matured lead cohorts and may not equal same-month reservations divided by inquiries.
+PRJ-006,Northgate Commons,2026-10,141,12.6,20.6,18,Conversion rate is measured on matured lead cohorts and may not equal same-month reservations divided by inquiries.
+PRJ-007,Seaside Grove,2026-09,143,9.1,16.2,13,Conversion rate is measured on matured lead cohorts and may not equal same-month reservations divided by inquiries.
+PRJ-007,Seaside Grove,2026-10,138,10.1,17.1,14,Conversion rate is measured on matured lead cohorts and may not equal same-month reservations divided by inquiries.
+PRJ-008,Ridgeview District,2026-09,190,10.7,24.7,20,Conversion rate is measured on matured lead cohorts and may not equal same-month reservations divided by inquiries.
+PRJ-008,Ridgeview District,2026-10,205,10,17.2,20,Conversion rate is measured on matured lead cohorts and may not equal same-month reservations divided by inquiries.

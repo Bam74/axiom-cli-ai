@@ -1,0 +1,26 @@
+[
+  {
+    "Scenario": "Project Intelligence",
+    "Record": "PRJ-001",
+    "Expected Demo Signal": "68% vs 71%; MEP delay 7->12 days; elevator 14 Oct->3 Nov; 3 aging RFIs",
+    "Guardrail": "Show sources; human project lead reviews"
+  },
+  {
+    "Scenario": "Sales & Buyer Intelligence",
+    "Record": "LEAD-0001 / Maria Santos",
+    "Expected Demo Signal": "2BR, Cebu, PHP8M-10M; parking + rental + turnover; match PRJ-001/002/004",
+    "Guardrail": "Reconfirm price, inventory and turnover before sending"
+  },
+  {
+    "Scenario": "Customer & Property Intelligence",
+    "Record": "PRJ-003",
+    "Expected Demo Signal": "17/22 water cases; Floors 11-16; ~2.4x portfolio rate",
+    "Guardrail": "Pattern is not a confirmed root cause"
+  },
+  {
+    "Scenario": "Management Intelligence",
+    "Record": "Cross-functional",
+    "Expected Demo Signal": "PRJ-001 schedule + PRJ-002 sales conversion + PRJ-003 CX pattern",
+    "Guardrail": "AI surfaces signals; accountable people investigate and decide"
+  }
+]

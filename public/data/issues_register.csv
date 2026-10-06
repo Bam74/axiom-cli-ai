@@ -1,0 +1,33 @@
+Issue_ID,Project_ID,Category,Description,Priority,Status,Opened_Date,Age_Days,Owner,Source_Document
+ISS-001,PRJ-001,MEP,MEP installation is 12 days behind look-ahead schedule.,High,Open,2026-09-18,18,MEP Manager,MEP Contractor Update
+ISS-002,PRJ-001,Logistics,Elevator equipment delivery moved to 3 November 2026.,High,Open,2026-09-30,6,Procurement Lead,Weekly Progress Report W38
+ISS-003,PRJ-001,RFI,RFI-014: ceiling coordination detail awaiting final response.,High,Open,2026-09-17,19,Design Manager,Issues Register Snapshot
+ISS-004,PRJ-001,RFI,RFI-019: riser routing clarification awaiting final response.,High,Open,2026-09-19,17,Design Manager,Issues Register Snapshot
+ISS-005,PRJ-001,RFI,RFI-023: equipment-room clearance clarification awaiting final response.,High,Open,2026-09-21,15,Design Manager,Issues Register Snapshot
+ISS-006,PRJ-002,Construction,Podium façade mock-up approval requires closure.,High,Open,2026-09-27,9,Project Architect,Weekly Project Update
+ISS-007,PRJ-002,Procurement,Backup generator package commercial clarification pending.,High,Open,2026-09-25,11,Procurement Lead,Procurement Tracker
+ISS-008,PRJ-003,Turnover Quality,Water-related defect cases concentrated on Floors 11-16.,Critical,Open,2026-09-28,8,Property Operations Head,Customer Case Summary
+ISS-009,PRJ-003,Closeout,Outstanding contractor rectification evidence for 14 units.,High,Open,2026-09-23,13,Turnover Manager,Defect Rectification Log
+ISS-010,PRJ-004,Permits,Marine-side access permit renewal requires confirmation.,High,Open,2026-09-30,6,Permits Lead,Weekly Project Update
+ISS-011,PRJ-005,Procurement,Long-lead façade material sample approval is approaching cutoff.,High,Open,2026-09-30,6,Project Architect,Weekly Project Update
+ISS-012,PRJ-006,Design,Utility coordination drawing requires cross-discipline sign-off.,High,Open,2026-09-27,9,Design Manager,Weekly Project Update
+ISS-013,PRJ-007,Schedule,Concrete pour sequence revised after weather disruption.,High,Open,2026-10-01,5,Construction Manager,Weekly Project Update
+ISS-014,PRJ-008,Permits,Site logistics plan requires final traffic-management endorsement.,High,Open,2026-10-01,5,Site Development Lead,Weekly Project Update
+ISS-015,PRJ-001,Documentation,As-built document indexing requires cleanup.,Medium,Open,2026-09-21,15,Project Controls,Weekly Project Update
+ISS-016,PRJ-001,Commercial,Minor subcontractor variation under evaluation.,Medium,In Progress,2026-09-23,13,Project Controls,Weekly Project Update
+ISS-017,PRJ-001,Quality,Non-critical punch-list items awaiting closure evidence.,Medium,Open,2026-10-02,4,Project Controls,Weekly Project Update
+ISS-018,PRJ-002,Documentation,As-built document indexing requires cleanup.,Medium,Open,2026-09-17,19,Project Controls,Weekly Project Update
+ISS-019,PRJ-002,Commercial,Minor subcontractor variation under evaluation.,Medium,In Progress,2026-09-20,16,Project Controls,Weekly Project Update
+ISS-020,PRJ-003,Documentation,As-built document indexing requires cleanup.,Medium,Open,2026-09-30,6,Project Controls,Weekly Project Update
+ISS-021,PRJ-003,Commercial,Minor subcontractor variation under evaluation.,Medium,In Progress,2026-09-17,19,Project Controls,Weekly Project Update
+ISS-022,PRJ-003,Quality,Non-critical punch-list items awaiting closure evidence.,Medium,Open,2026-10-04,2,Project Controls,Weekly Project Update
+ISS-023,PRJ-004,Documentation,As-built document indexing requires cleanup.,Medium,Open,2026-09-17,19,Project Controls,Weekly Project Update
+ISS-024,PRJ-004,Commercial,Minor subcontractor variation under evaluation.,Medium,In Progress,2026-09-23,13,Project Controls,Weekly Project Update
+ISS-025,PRJ-005,Documentation,As-built document indexing requires cleanup.,Medium,Open,2026-09-28,8,Project Controls,Weekly Project Update
+ISS-026,PRJ-005,Commercial,Minor subcontractor variation under evaluation.,Medium,In Progress,2026-10-01,5,Project Controls,Weekly Project Update
+ISS-027,PRJ-006,Documentation,As-built document indexing requires cleanup.,Medium,Open,2026-09-25,11,Project Controls,Weekly Project Update
+ISS-028,PRJ-006,Commercial,Minor subcontractor variation under evaluation.,Medium,In Progress,2026-09-20,16,Project Controls,Weekly Project Update
+ISS-029,PRJ-007,Documentation,As-built document indexing requires cleanup.,Medium,Open,2026-09-29,7,Project Controls,Weekly Project Update
+ISS-030,PRJ-007,Commercial,Minor subcontractor variation under evaluation.,Medium,In Progress,2026-09-30,6,Project Controls,Weekly Project Update
+ISS-031,PRJ-008,Documentation,As-built document indexing requires cleanup.,Medium,Open,2026-10-01,5,Project Controls,Weekly Project Update
+ISS-032,PRJ-008,Commercial,Minor subcontractor variation under evaluation.,Medium,In Progress,2026-09-17,19,Project Controls,Weekly Project Update

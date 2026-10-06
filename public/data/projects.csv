@@ -1,0 +1,9 @@
+Project_ID,Project_Name,City,Project_Type,Segment,Stage,Start_Date,Target_Completion,Overall_Status,Planned_Progress_Pct,Actual_Progress_Pct,Budget_PHP_M,Committed_Cost_PHP_M,Forecast_Final_Cost_PHP_M,Units_Total,Units_Sold,Project_Director,Data_As_Of
+PRJ-001,Astra Heights Tower 2,Cebu City,High-rise Residential,Mid-market,Construction,2024-01-15,2028-03-31,AMBER,71,68,4200,2875,4234,620,468,Daniel Cruz,2026-10-06
+PRJ-002,South Coast Residences,Mandaue City,Residential Condominium,Mid-market,Construction & Sales,2024-07-01,2027-12-31,GREEN,47,46.5,3100,1750,3090,540,332,Angela Tan,2026-10-06
+PRJ-003,Central Park Tower,Cagayan de Oro City,Residential Condominium,Mid-market,Turnover & Operations,2022-08-15,2026-07-31,AMBER,100,99.2,3600,3530,3618,1120,1045,Marco Villanueva,2026-10-06
+PRJ-004,Harborview Residences,Lapu-Lapu City,Resort-style Condominium,Upper Mid-market,Construction & Sales,2025-02-10,2028-09-30,GREEN,31,32,5100,1890,5075,710,301,Bianca Lee,2026-10-06
+PRJ-005,Riverfront District Residences,Davao City,Mixed-use Residential,Mid-market,Construction,2024-05-20,2028-05-31,GREEN,52,52.4,6200,3380,6180,860,578,Paolo Garcia,2026-10-06
+PRJ-006,Northgate Commons,Iloilo City,Residential Condominium,Economic Plus,Construction & Sales,2025-01-08,2028-02-29,GREEN,35,34.7,2800,1260,2794,500,289,Rachel Ong,2026-10-06
+PRJ-007,Seaside Grove,Bacolod City,Residential Condominium,Economic Plus,Construction,2025-06-02,2028-11-30,GREEN,24,24.3,2500,920,2488,460,214,Nathan Yu,2026-10-06
+PRJ-008,Ridgeview District,General Santos City,Mixed-use Residential,Mid-market,Pre-selling & Early Works,2026-02-16,2029-06-30,GREEN,12,12.5,3900,625,3885,580,185,Sofia Mendoza,2026-10-06

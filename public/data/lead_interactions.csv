@@ -1,0 +1,226 @@
+Interaction_ID,Lead_ID,Interaction_Date,Channel,Agent,Interaction_Text
+INT-0001,LEAD-0001,2026-09-10,Web inquiry,Sales Team A,Asked for available 2BR units in Cebu within PHP 8M-10M and whether parking can be purchased.
+INT-0002,LEAD-0001,2026-09-24,Phone,Sales Team A,Clarified that the purchase is primarily for investment. Asked about target renter profile and expected turnover.
+INT-0003,LEAD-0001,2026-10-05,Email,Sales Team A,Requested a shortlist of suitable 2BR options and confirmed that parking availability is important.
+INT-0004,LEAD-0002,2026-10-04,Phone,Sales Team B,Asked about 1BR payment terms and whether parking is available for end-user buyers.
+INT-0005,LEAD-0003,2026-10-03,Video call,Sales Team C,Discussed 2BR options for family use and seasonal rental. Buyer requested confirmed turnover window.
+INT-0006,LEAD-1647,2026-09-16,Chat,Sales Team C,Discussed Studio options. Buyer asked about price and payment terms.
+INT-0007,LEAD-0775,2026-09-08,Chat,Sales Team C,Discussed 2BR options. Buyer asked about location access.
+INT-0008,LEAD-0730,2026-09-23,Site visit,Sales Team A,Discussed Studio options. Buyer asked about parking.
+INT-0009,LEAD-0494,2026-09-26,Site visit,Sales Team D,Discussed Studio options. Buyer asked about price and payment terms.
+INT-0010,LEAD-0251,2026-09-22,Phone,Sales Team C,Discussed 3BR options. Buyer asked about amenities.
+INT-0011,LEAD-0910,2026-10-01,Site visit,Sales Team D,Discussed 1BR options. Buyer asked about amenities.
+INT-0012,LEAD-1493,2026-09-26,Chat,Sales Team C,Discussed 2BR options. Buyer asked about amenities.
+INT-0013,LEAD-0333,2026-09-23,Email,Sales Team B,Discussed 2BR options. Buyer asked about amenities.
+INT-0014,LEAD-1770,2026-09-25,Email,Sales Team C,Discussed 1BR options. Buyer asked about price and payment terms.
+INT-0015,LEAD-1664,2026-09-16,Email,Sales Team D,Discussed 1BR options. Buyer asked about amenities.
+INT-0016,LEAD-1252,2026-09-21,Email,Sales Team D,Discussed Studio options. Buyer asked about location access.
+INT-0017,LEAD-0358,2026-09-11,Chat,Sales Team B,Discussed 1BR options. Buyer asked about location access.
+INT-0018,LEAD-1117,2026-09-24,Site visit,Sales Team A,Discussed 2BR options. Buyer asked about amenities.
+INT-0019,LEAD-1364,2026-09-22,Email,Sales Team B,Discussed 1BR options. Buyer asked about parking.
+INT-0020,LEAD-1075,2026-09-09,Phone,Sales Team D,Discussed 1BR options. Buyer asked about turnover timing.
+INT-0021,LEAD-0626,2026-09-07,Site visit,Sales Team A,Discussed 3BR options. Buyer asked about location access.
+INT-0022,LEAD-1001,2026-09-14,Chat,Sales Team A,Discussed 2BR options. Buyer asked about location access.
+INT-0023,LEAD-0834,2026-09-14,Phone,Sales Team D,Discussed 2BR options. Buyer asked about parking.
+INT-0024,LEAD-1786,2026-10-01,Email,Sales Team C,Discussed 3BR options. Buyer asked about amenities.
+INT-0025,LEAD-0913,2026-09-28,Email,Sales Team A,Discussed 1BR options. Buyer asked about amenities.
+INT-0026,LEAD-0942,2026-09-14,Phone,Sales Team C,Discussed 3BR options. Buyer asked about turnover timing.
+INT-0027,LEAD-1822,2026-09-27,Phone,Sales Team B,Discussed Studio options. Buyer asked about parking.
+INT-0028,LEAD-0803,2026-09-16,Email,Sales Team D,Discussed 1BR options. Buyer asked about price and payment terms.
+INT-0029,LEAD-1660,2026-09-30,Site visit,Sales Team A,Discussed 1BR options. Buyer asked about amenities.
+INT-0030,LEAD-0225,2026-10-03,Chat,Sales Team D,Discussed 1BR options. Buyer asked about turnover timing.
+INT-0031,LEAD-1475,2026-09-29,Site visit,Sales Team A,Discussed 2BR options. Buyer asked about turnover timing.
+INT-0032,LEAD-0989,2026-09-14,Chat,Sales Team A,Discussed Studio options. Buyer asked about price and payment terms.
+INT-0033,LEAD-0543,2026-09-27,Phone,Sales Team A,Discussed Studio options. Buyer asked about price and payment terms.
+INT-0034,LEAD-0197,2026-09-30,Email,Sales Team B,Discussed 1BR options. Buyer asked about price and payment terms.
+INT-0035,LEAD-0639,2026-09-26,Phone,Sales Team B,Discussed Studio options. Buyer asked about amenities.
+INT-0036,LEAD-1132,2026-10-03,Phone,Sales Team C,Discussed 2BR options. Buyer asked about amenities.
+INT-0037,LEAD-0525,2026-09-06,Phone,Sales Team C,Discussed 1BR options. Buyer asked about location access.
+INT-0038,LEAD-1356,2026-09-22,Site visit,Sales Team A,Discussed 1BR options. Buyer asked about parking.
+INT-0039,LEAD-0136,2026-09-13,Phone,Sales Team B,Discussed Studio options. Buyer asked about amenities.
+INT-0040,LEAD-1780,2026-09-09,Chat,Sales Team D,Discussed 3BR options. Buyer asked about parking.
+INT-0041,LEAD-1576,2026-10-03,Chat,Sales Team B,Discussed 1BR options. Buyer asked about location access.
+INT-0042,LEAD-0084,2026-09-12,Site visit,Sales Team D,Discussed 3BR options. Buyer asked about amenities.
+INT-0043,LEAD-1636,2026-09-18,Chat,Sales Team B,Discussed 1BR options. Buyer asked about amenities.
+INT-0044,LEAD-1295,2026-09-29,Site visit,Sales Team C,Discussed 3BR options. Buyer asked about parking.
+INT-0045,LEAD-0439,2026-09-29,Site visit,Sales Team C,Discussed 2BR options. Buyer asked about turnover timing.
+INT-0046,LEAD-0160,2026-09-26,Email,Sales Team A,Discussed 3BR options. Buyer asked about turnover timing.
+INT-0047,LEAD-1572,2026-09-20,Phone,Sales Team C,Discussed 2BR options. Buyer asked about turnover timing.
+INT-0048,LEAD-1526,2026-09-18,Phone,Sales Team D,Discussed 1BR options. Buyer asked about parking.
+INT-0049,LEAD-1328,2026-10-05,Phone,Sales Team C,Discussed 2BR options. Buyer asked about location access.
+INT-0050,LEAD-1109,2026-09-22,Email,Sales Team B,Discussed 2BR options. Buyer asked about turnover timing.
+INT-0051,LEAD-1084,2026-10-01,Email,Sales Team B,Discussed 2BR options. Buyer asked about turnover timing.
+INT-0052,LEAD-0126,2026-09-24,Email,Sales Team B,Discussed 2BR options. Buyer asked about turnover timing.
+INT-0053,LEAD-0963,2026-09-06,Phone,Sales Team A,Discussed 1BR options. Buyer asked about turnover timing.
+INT-0054,LEAD-0114,2026-09-12,Phone,Sales Team C,Discussed 2BR options. Buyer asked about price and payment terms.
+INT-0055,LEAD-0617,2026-09-18,Phone,Sales Team C,Discussed 2BR options. Buyer asked about amenities.
+INT-0056,LEAD-1353,2026-09-20,Site visit,Sales Team B,Discussed 1BR options. Buyer asked about turnover timing.
+INT-0057,LEAD-0591,2026-09-21,Email,Sales Team D,Discussed 2BR options. Buyer asked about amenities.
+INT-0058,LEAD-0372,2026-09-17,Chat,Sales Team D,Discussed 2BR options. Buyer asked about parking.
+INT-0059,LEAD-0278,2026-09-17,Phone,Sales Team D,Discussed 1BR options. Buyer asked about parking.
+INT-0060,LEAD-1600,2026-09-29,Site visit,Sales Team B,Discussed 3BR options. Buyer asked about parking.
+INT-0061,LEAD-1049,2026-09-21,Email,Sales Team C,Discussed 1BR options. Buyer asked about turnover timing.
+INT-0062,LEAD-1653,2026-10-01,Chat,Sales Team B,Discussed 1BR options. Buyer asked about amenities.
+INT-0063,LEAD-0940,2026-09-28,Site visit,Sales Team C,Discussed 1BR options. Buyer asked about price and payment terms.
+INT-0064,LEAD-0670,2026-09-12,Phone,Sales Team A,Discussed 2BR options. Buyer asked about location access.
+INT-0065,LEAD-1152,2026-09-13,Site visit,Sales Team A,Discussed 2BR options. Buyer asked about location access.
+INT-0066,LEAD-1232,2026-09-18,Chat,Sales Team D,Discussed Studio options. Buyer asked about parking.
+INT-0067,LEAD-0648,2026-09-07,Chat,Sales Team A,Discussed 1BR options. Buyer asked about amenities.
+INT-0068,LEAD-1738,2026-09-22,Phone,Sales Team A,Discussed 1BR options. Buyer asked about parking.
+INT-0069,LEAD-1467,2026-10-02,Phone,Sales Team D,Discussed 2BR options. Buyer asked about location access.
+INT-0070,LEAD-1400,2026-09-08,Phone,Sales Team C,Discussed 1BR options. Buyer asked about price and payment terms.
+INT-0071,LEAD-0692,2026-09-26,Site visit,Sales Team A,Discussed 2BR options. Buyer asked about turnover timing.
+INT-0072,LEAD-0506,2026-10-02,Email,Sales Team C,Discussed 1BR options. Buyer asked about parking.
+INT-0073,LEAD-0978,2026-09-17,Site visit,Sales Team A,Discussed 2BR options. Buyer asked about amenities.
+INT-0074,LEAD-1205,2026-10-01,Phone,Sales Team C,Discussed 3BR options. Buyer asked about price and payment terms.
+INT-0075,LEAD-0345,2026-09-17,Email,Sales Team C,Discussed 2BR options. Buyer asked about price and payment terms.
+INT-0076,LEAD-1640,2026-09-23,Chat,Sales Team A,Discussed 2BR options. Buyer asked about turnover timing.
+INT-0077,LEAD-0673,2026-09-25,Email,Sales Team A,Discussed 2BR options. Buyer asked about parking.
+INT-0078,LEAD-1514,2026-09-16,Site visit,Sales Team B,Discussed 3BR options. Buyer asked about location access.
+INT-0079,LEAD-0713,2026-09-13,Phone,Sales Team C,Discussed Studio options. Buyer asked about parking.
+INT-0080,LEAD-1396,2026-09-30,Phone,Sales Team D,Discussed 3BR options. Buyer asked about turnover timing.
+INT-0081,LEAD-0802,2026-10-02,Phone,Sales Team D,Discussed 1BR options. Buyer asked about turnover timing.
+INT-0082,LEAD-0496,2026-09-28,Phone,Sales Team A,Discussed 3BR options. Buyer asked about location access.
+INT-0083,LEAD-1185,2026-09-17,Email,Sales Team D,Discussed 2BR options. Buyer asked about location access.
+INT-0084,LEAD-1345,2026-10-03,Chat,Sales Team B,Discussed 1BR options. Buyer asked about price and payment terms.
+INT-0085,LEAD-1229,2026-09-27,Site visit,Sales Team C,Discussed 2BR options. Buyer asked about location access.
+INT-0086,LEAD-1623,2026-09-27,Site visit,Sales Team B,Discussed 2BR options. Buyer asked about parking.
+INT-0087,LEAD-0906,2026-09-11,Phone,Sales Team B,Discussed Studio options. Buyer asked about parking.
+INT-0088,LEAD-0424,2026-09-12,Email,Sales Team A,Discussed 1BR options. Buyer asked about parking.
+INT-0089,LEAD-0894,2026-09-06,Email,Sales Team C,Discussed 1BR options. Buyer asked about turnover timing.
+INT-0090,LEAD-0733,2026-10-01,Chat,Sales Team C,Discussed Studio options. Buyer asked about price and payment terms.
+INT-0091,LEAD-0362,2026-09-18,Site visit,Sales Team D,Discussed 1BR options. Buyer asked about amenities.
+INT-0092,LEAD-1525,2026-09-08,Chat,Sales Team A,Discussed 2BR options. Buyer asked about parking.
+INT-0093,LEAD-0168,2026-09-15,Phone,Sales Team D,Discussed Studio options. Buyer asked about parking.
+INT-0094,LEAD-1445,2026-09-30,Email,Sales Team A,Discussed 3BR options. Buyer asked about price and payment terms.
+INT-0095,LEAD-0390,2026-09-08,Chat,Sales Team D,Discussed 2BR options. Buyer asked about turnover timing.
+INT-0096,LEAD-1334,2026-09-09,Site visit,Sales Team D,Discussed 2BR options. Buyer asked about amenities.
+INT-0097,LEAD-1517,2026-09-09,Email,Sales Team D,Discussed Studio options. Buyer asked about amenities.
+INT-0098,LEAD-0583,2026-10-02,Chat,Sales Team D,Discussed 3BR options. Buyer asked about parking.
+INT-0099,LEAD-0633,2026-10-01,Chat,Sales Team B,Discussed 2BR options. Buyer asked about parking.
+INT-0100,LEAD-1627,2026-09-30,Phone,Sales Team C,Discussed 2BR options. Buyer asked about turnover timing.
+INT-0101,LEAD-1444,2026-09-21,Site visit,Sales Team A,Discussed 2BR options. Buyer asked about price and payment terms.
+INT-0102,LEAD-0318,2026-09-19,Email,Sales Team D,Discussed 1BR options. Buyer asked about location access.
+INT-0103,LEAD-0399,2026-09-24,Phone,Sales Team D,Discussed 1BR options. Buyer asked about turnover timing.
+INT-0104,LEAD-1275,2026-10-06,Site visit,Sales Team A,Discussed 1BR options. Buyer asked about location access.
+INT-0105,LEAD-0879,2026-09-20,Site visit,Sales Team B,Discussed 1BR options. Buyer asked about turnover timing.
+INT-0106,LEAD-0900,2026-09-29,Chat,Sales Team D,Discussed 1BR options. Buyer asked about location access.
+INT-0107,LEAD-1723,2026-09-16,Phone,Sales Team C,Discussed 1BR options. Buyer asked about amenities.
+INT-0108,LEAD-0945,2026-09-30,Phone,Sales Team B,Discussed 1BR options. Buyer asked about price and payment terms.
+INT-0109,LEAD-0129,2026-09-19,Site visit,Sales Team B,Discussed 1BR options. Buyer asked about amenities.
+INT-0110,LEAD-0248,2026-09-12,Site visit,Sales Team C,Discussed 1BR options. Buyer asked about location access.
+INT-0111,LEAD-1143,2026-09-09,Email,Sales Team C,Discussed 2BR options. Buyer asked about price and payment terms.
+INT-0112,LEAD-1258,2026-09-29,Email,Sales Team D,Discussed 3BR options. Buyer asked about location access.
+INT-0113,LEAD-1737,2026-10-06,Email,Sales Team A,Discussed Studio options. Buyer asked about amenities.
+INT-0114,LEAD-1478,2026-10-02,Site visit,Sales Team B,Discussed 2BR options. Buyer asked about price and payment terms.
+INT-0115,LEAD-0635,2026-09-19,Site visit,Sales Team D,Discussed 2BR options. Buyer asked about turnover timing.
+INT-0116,LEAD-1581,2026-09-20,Email,Sales Team C,Discussed 1BR options. Buyer asked about price and payment terms.
+INT-0117,LEAD-0715,2026-09-14,Email,Sales Team C,Discussed 1BR options. Buyer asked about amenities.
+INT-0118,LEAD-0521,2026-09-22,Site visit,Sales Team C,Discussed Studio options. Buyer asked about location access.
+INT-0119,LEAD-1256,2026-09-08,Email,Sales Team B,Discussed 3BR options. Buyer asked about amenities.
+INT-0120,LEAD-0302,2026-09-08,Chat,Sales Team A,Discussed 2BR options. Buyer asked about parking.
+INT-0121,LEAD-1390,2026-10-02,Email,Sales Team B,Discussed 1BR options. Buyer asked about location access.
+INT-0122,LEAD-0537,2026-10-05,Chat,Sales Team D,Discussed 3BR options. Buyer asked about amenities.
+INT-0123,LEAD-1055,2026-09-07,Email,Sales Team D,Discussed 1BR options. Buyer asked about amenities.
+INT-0124,LEAD-0443,2026-09-26,Phone,Sales Team B,Discussed 3BR options. Buyer asked about turnover timing.
+INT-0125,LEAD-1425,2026-09-19,Email,Sales Team A,Discussed 2BR options. Buyer asked about turnover timing.
+INT-0126,LEAD-0199,2026-09-21,Chat,Sales Team D,Discussed 1BR options. Buyer asked about location access.
+INT-0127,LEAD-1486,2026-09-26,Chat,Sales Team A,Discussed 1BR options. Buyer asked about amenities.
+INT-0128,LEAD-1158,2026-09-09,Email,Sales Team C,Discussed 2BR options. Buyer asked about location access.
+INT-0129,LEAD-0874,2026-09-12,Email,Sales Team A,Discussed 2BR options. Buyer asked about amenities.
+INT-0130,LEAD-1430,2026-09-21,Chat,Sales Team A,Discussed 1BR options. Buyer asked about parking.
+INT-0131,LEAD-1297,2026-09-06,Chat,Sales Team B,Discussed Studio options. Buyer asked about parking.
+INT-0132,LEAD-1681,2026-09-30,Site visit,Sales Team A,Discussed 3BR options. Buyer asked about turnover timing.
+INT-0133,LEAD-0321,2026-09-29,Email,Sales Team B,Discussed 1BR options. Buyer asked about parking.
+INT-0134,LEAD-1248,2026-09-18,Phone,Sales Team A,Discussed 2BR options. Buyer asked about turnover timing.
+INT-0135,LEAD-1312,2026-10-02,Chat,Sales Team A,Discussed 3BR options. Buyer asked about amenities.
+INT-0136,LEAD-1512,2026-10-03,Site visit,Sales Team B,Discussed 1BR options. Buyer asked about location access.
+INT-0137,LEAD-0714,2026-09-26,Chat,Sales Team C,Discussed 3BR options. Buyer asked about turnover timing.
+INT-0138,LEAD-0379,2026-09-30,Email,Sales Team C,Discussed 1BR options. Buyer asked about parking.
+INT-0139,LEAD-0238,2026-09-22,Site visit,Sales Team D,Discussed Studio options. Buyer asked about turnover timing.
+INT-0140,LEAD-1814,2026-09-21,Email,Sales Team D,Discussed 1BR options. Buyer asked about turnover timing.
+INT-0141,LEAD-1350,2026-09-15,Phone,Sales Team B,Discussed 1BR options. Buyer asked about amenities.
+INT-0142,LEAD-0875,2026-09-18,Chat,Sales Team C,Discussed 1BR options. Buyer asked about turnover timing.
+INT-0143,LEAD-1817,2026-09-15,Chat,Sales Team A,Discussed 2BR options. Buyer asked about parking.
+INT-0144,LEAD-1629,2026-09-11,Phone,Sales Team C,Discussed Studio options. Buyer asked about turnover timing.
+INT-0145,LEAD-1287,2026-09-09,Phone,Sales Team A,Discussed 1BR options. Buyer asked about amenities.
+INT-0146,LEAD-0542,2026-09-25,Email,Sales Team B,Discussed 2BR options. Buyer asked about parking.
+INT-0147,LEAD-0805,2026-09-15,Email,Sales Team A,Discussed 1BR options. Buyer asked about price and payment terms.
+INT-0148,LEAD-0592,2026-09-22,Site visit,Sales Team B,Discussed 1BR options. Buyer asked about parking.
+INT-0149,LEAD-1082,2026-09-09,Chat,Sales Team B,Discussed 1BR options. Buyer asked about parking.
+INT-0150,LEAD-1299,2026-09-21,Chat,Sales Team C,Discussed 2BR options. Buyer asked about amenities.
+INT-0151,LEAD-0818,2026-10-03,Phone,Sales Team A,Discussed 2BR options. Buyer asked about amenities.
+INT-0152,LEAD-1795,2026-09-28,Chat,Sales Team C,Discussed 1BR options. Buyer asked about parking.
+INT-0153,LEAD-0602,2026-09-26,Chat,Sales Team B,Discussed Studio options. Buyer asked about location access.
+INT-0154,LEAD-0053,2026-09-19,Phone,Sales Team A,Discussed Studio options. Buyer asked about amenities.
+INT-0155,LEAD-0851,2026-09-14,Site visit,Sales Team D,Discussed 2BR options. Buyer asked about price and payment terms.
+INT-0156,LEAD-0677,2026-09-20,Site visit,Sales Team B,Discussed Studio options. Buyer asked about location access.
+INT-0157,LEAD-0876,2026-09-10,Chat,Sales Team B,Discussed 1BR options. Buyer asked about amenities.
+INT-0158,LEAD-1590,2026-09-20,Email,Sales Team B,Discussed 2BR options. Buyer asked about location access.
+INT-0159,LEAD-1329,2026-09-22,Site visit,Sales Team D,Discussed 2BR options. Buyer asked about price and payment terms.
+INT-0160,LEAD-0161,2026-10-01,Email,Sales Team A,Discussed 1BR options. Buyer asked about parking.
+INT-0161,LEAD-0255,2026-09-19,Phone,Sales Team D,Discussed Studio options. Buyer asked about parking.
+INT-0162,LEAD-0425,2026-09-14,Chat,Sales Team C,Discussed 2BR options. Buyer asked about price and payment terms.
+INT-0163,LEAD-1577,2026-09-12,Email,Sales Team D,Discussed 2BR options. Buyer asked about price and payment terms.
+INT-0164,LEAD-0784,2026-09-21,Site visit,Sales Team D,Discussed 1BR options. Buyer asked about price and payment terms.
+INT-0165,LEAD-1505,2026-09-06,Phone,Sales Team D,Discussed 1BR options. Buyer asked about location access.
+INT-0166,LEAD-0020,2026-10-04,Site visit,Sales Team A,Discussed 1BR options. Buyer asked about parking.
+INT-0167,LEAD-0935,2026-09-18,Site visit,Sales Team B,Discussed 1BR options. Buyer asked about parking.
+INT-0168,LEAD-0429,2026-09-20,Email,Sales Team C,Discussed Studio options. Buyer asked about price and payment terms.
+INT-0169,LEAD-1546,2026-09-12,Email,Sales Team D,Discussed 2BR options. Buyer asked about turnover timing.
+INT-0170,LEAD-1551,2026-09-30,Email,Sales Team C,Discussed 2BR options. Buyer asked about location access.
+INT-0171,LEAD-1391,2026-09-28,Phone,Sales Team A,Discussed 2BR options. Buyer asked about parking.
+INT-0172,LEAD-1419,2026-09-17,Email,Sales Team A,Discussed 1BR options. Buyer asked about price and payment terms.
+INT-0173,LEAD-1684,2026-09-30,Site visit,Sales Team B,Discussed 2BR options. Buyer asked about location access.
+INT-0174,LEAD-1047,2026-09-26,Email,Sales Team B,Discussed 2BR options. Buyer asked about location access.
+INT-0175,LEAD-0229,2026-09-21,Site visit,Sales Team C,Discussed 3BR options. Buyer asked about amenities.
+INT-0176,LEAD-0902,2026-09-28,Site visit,Sales Team D,Discussed Studio options. Buyer asked about location access.
+INT-0177,LEAD-1247,2026-09-30,Email,Sales Team D,Discussed 1BR options. Buyer asked about turnover timing.
+INT-0178,LEAD-1352,2026-09-07,Email,Sales Team A,Discussed 2BR options. Buyer asked about location access.
+INT-0179,LEAD-1728,2026-09-22,Email,Sales Team D,Discussed 3BR options. Buyer asked about amenities.
+INT-0180,LEAD-1129,2026-09-09,Site visit,Sales Team B,Discussed Studio options. Buyer asked about amenities.
+INT-0181,LEAD-0788,2026-09-25,Phone,Sales Team D,Discussed 1BR options. Buyer asked about location access.
+INT-0182,LEAD-1608,2026-10-01,Site visit,Sales Team B,Discussed 2BR options. Buyer asked about location access.
+INT-0183,LEAD-1257,2026-09-10,Site visit,Sales Team B,Discussed 2BR options. Buyer asked about turnover timing.
+INT-0184,LEAD-0056,2026-09-21,Chat,Sales Team D,Discussed Studio options. Buyer asked about location access.
+INT-0185,LEAD-1650,2026-10-04,Email,Sales Team D,Discussed 3BR options. Buyer asked about amenities.
+INT-0186,LEAD-1784,2026-09-14,Phone,Sales Team B,Discussed 1BR options. Buyer asked about location access.
+INT-0187,LEAD-1321,2026-09-23,Email,Sales Team C,Discussed 2BR options. Buyer asked about location access.
+INT-0188,LEAD-1617,2026-10-03,Chat,Sales Team B,Discussed Studio options. Buyer asked about turnover timing.
+INT-0189,LEAD-0200,2026-09-18,Chat,Sales Team C,Discussed 1BR options. Buyer asked about amenities.
+INT-0190,LEAD-0958,2026-09-17,Site visit,Sales Team D,Discussed 3BR options. Buyer asked about turnover timing.
+INT-0191,LEAD-0822,2026-09-24,Email,Sales Team D,Discussed 1BR options. Buyer asked about amenities.
+INT-0192,LEAD-1367,2026-09-10,Chat,Sales Team B,Discussed 2BR options. Buyer asked about amenities.
+INT-0193,LEAD-0037,2026-10-01,Phone,Sales Team D,Discussed 1BR options. Buyer asked about amenities.
+INT-0194,LEAD-1487,2026-10-01,Site visit,Sales Team A,Discussed 1BR options. Buyer asked about turnover timing.
+INT-0195,LEAD-0332,2026-09-07,Chat,Sales Team C,Discussed 1BR options. Buyer asked about price and payment terms.
+INT-0196,LEAD-1762,2026-09-19,Phone,Sales Team B,Discussed Studio options. Buyer asked about price and payment terms.
+INT-0197,LEAD-1827,2026-10-06,Chat,Sales Team A,Discussed 3BR options. Buyer asked about parking.
+INT-0198,LEAD-1637,2026-09-27,Phone,Sales Team B,Discussed 2BR options. Buyer asked about turnover timing.
+INT-0199,LEAD-0403,2026-09-23,Email,Sales Team C,Discussed 1BR options. Buyer asked about turnover timing.
+INT-0200,LEAD-1710,2026-09-27,Site visit,Sales Team B,Discussed Studio options. Buyer asked about amenities.
+INT-0201,LEAD-0118,2026-09-19,Phone,Sales Team A,Discussed 2BR options. Buyer asked about location access.
+INT-0202,LEAD-1500,2026-09-21,Chat,Sales Team C,Discussed 3BR options. Buyer asked about amenities.
+INT-0203,LEAD-0801,2026-10-04,Chat,Sales Team D,Discussed 2BR options. Buyer asked about price and payment terms.
+INT-0204,LEAD-0932,2026-10-01,Chat,Sales Team B,Discussed 1BR options. Buyer asked about price and payment terms.
+INT-0205,LEAD-1755,2026-09-06,Chat,Sales Team A,Discussed 1BR options. Buyer asked about parking.
+INT-0206,LEAD-1243,2026-09-12,Chat,Sales Team B,Discussed 3BR options. Buyer asked about parking.
+INT-0207,LEAD-1310,2026-09-20,Site visit,Sales Team D,Discussed 2BR options. Buyer asked about price and payment terms.
+INT-0208,LEAD-1274,2026-10-04,Site visit,Sales Team B,Discussed 2BR options. Buyer asked about turnover timing.
+INT-0209,LEAD-1580,2026-09-16,Phone,Sales Team C,Discussed 1BR options. Buyer asked about amenities.
+INT-0210,LEAD-0336,2026-09-14,Site visit,Sales Team A,Discussed 1BR options. Buyer asked about parking.
+INT-0211,LEAD-1032,2026-10-04,Phone,Sales Team D,Discussed 3BR options. Buyer asked about price and payment terms.
+INT-0212,LEAD-1316,2026-10-01,Email,Sales Team B,Discussed 2BR options. Buyer asked about turnover timing.
+INT-0213,LEAD-0451,2026-09-06,Chat,Sales Team D,Discussed 3BR options. Buyer asked about parking.
+INT-0214,LEAD-1414,2026-09-13,Email,Sales Team B,Discussed Studio options. Buyer asked about parking.
+INT-0215,LEAD-0080,2026-09-26,Email,Sales Team A,Discussed 1BR options. Buyer asked about price and payment terms.
+INT-0216,LEAD-0100,2026-10-04,Chat,Sales Team A,Discussed 3BR options. Buyer asked about amenities.
+INT-0217,LEAD-0507,2026-10-05,Phone,Sales Team A,Discussed 1BR options. Buyer asked about turnover timing.
+INT-0218,LEAD-1374,2026-09-27,Site visit,Sales Team D,Discussed 2BR options. Buyer asked about parking.
+INT-0219,LEAD-1829,2026-09-23,Phone,Sales Team A,Discussed 1BR options. Buyer asked about amenities.
+INT-0220,LEAD-1594,2026-09-21,Chat,Sales Team D,Discussed 1BR options. Buyer asked about price and payment terms.
+INT-0221,LEAD-0308,2026-09-14,Site visit,Sales Team B,Discussed 2BR options. Buyer asked about amenities.
+INT-0222,LEAD-0313,2026-10-05,Site visit,Sales Team A,Discussed 1BR options. Buyer asked about location access.
+INT-0223,LEAD-0296,2026-09-10,Chat,Sales Team A,Discussed Studio options. Buyer asked about location access.
+INT-0224,LEAD-0473,2026-09-20,Phone,Sales Team C,Discussed 3BR options. Buyer asked about amenities.
+INT-0225,LEAD-0833,2026-09-17,Phone,Sales Team D,Discussed 2BR options. Buyer asked about turnover timing.

@@ -1,0 +1,66 @@
+Project_ID,Month,Reason,Share_of_Lost_Leads_Pct
+PRJ-001,2026-09,Price,28
+PRJ-001,2026-09,Financing,23
+PRJ-001,2026-09,Turnover timing,24
+PRJ-001,2026-09,Parking availability / clarity,25
+PRJ-001,2026-10,Price,17
+PRJ-001,2026-10,Financing,24
+PRJ-001,2026-10,Turnover timing,13
+PRJ-001,2026-10,Parking availability / clarity,46
+PRJ-002,2026-09,Price,15
+PRJ-002,2026-09,Financing,28
+PRJ-002,2026-09,Turnover timing,18
+PRJ-002,2026-09,Parking availability / clarity,39
+PRJ-002,2026-10,Parking availability / clarity,31
+PRJ-002,2026-10,Price,24
+PRJ-002,2026-10,Financing,19
+PRJ-002,2026-10,Turnover timing,15
+PRJ-002,2026-10,Location fit,11
+PRJ-003,2026-09,Price,24
+PRJ-003,2026-09,Financing,17
+PRJ-003,2026-09,Turnover timing,22
+PRJ-003,2026-09,Parking availability / clarity,37
+PRJ-003,2026-10,Price,24
+PRJ-003,2026-10,Financing,22
+PRJ-003,2026-10,Turnover timing,14
+PRJ-003,2026-10,Parking availability / clarity,40
+PRJ-004,2026-09,Price,22
+PRJ-004,2026-09,Financing,20
+PRJ-004,2026-09,Turnover timing,24
+PRJ-004,2026-09,Parking availability / clarity,34
+PRJ-004,2026-10,Price,22
+PRJ-004,2026-10,Financing,19
+PRJ-004,2026-10,Turnover timing,21
+PRJ-004,2026-10,Parking availability / clarity,38
+PRJ-005,2026-09,Price,16
+PRJ-005,2026-09,Financing,27
+PRJ-005,2026-09,Turnover timing,20
+PRJ-005,2026-09,Parking availability / clarity,37
+PRJ-005,2026-10,Price,21
+PRJ-005,2026-10,Financing,25
+PRJ-005,2026-10,Turnover timing,23
+PRJ-005,2026-10,Parking availability / clarity,31
+PRJ-006,2026-09,Price,17
+PRJ-006,2026-09,Financing,19
+PRJ-006,2026-09,Turnover timing,23
+PRJ-006,2026-09,Parking availability / clarity,41
+PRJ-006,2026-10,Price,28
+PRJ-006,2026-10,Financing,24
+PRJ-006,2026-10,Turnover timing,14
+PRJ-006,2026-10,Parking availability / clarity,34
+PRJ-007,2026-09,Price,16
+PRJ-007,2026-09,Financing,26
+PRJ-007,2026-09,Turnover timing,16
+PRJ-007,2026-09,Parking availability / clarity,42
+PRJ-007,2026-10,Price,25
+PRJ-007,2026-10,Financing,22
+PRJ-007,2026-10,Turnover timing,18
+PRJ-007,2026-10,Parking availability / clarity,35
+PRJ-008,2026-09,Price,19
+PRJ-008,2026-09,Financing,18
+PRJ-008,2026-09,Turnover timing,13
+PRJ-008,2026-09,Parking availability / clarity,50
+PRJ-008,2026-10,Price,21
+PRJ-008,2026-10,Financing,22
+PRJ-008,2026-10,Turnover timing,18
+PRJ-008,2026-10,Parking availability / clarity,39

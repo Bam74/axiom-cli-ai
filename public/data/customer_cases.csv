@@ -1,0 +1,428 @@
+Case_ID,Project_ID,Project_Name,Customer_Type,Theme,Subcategory,Case_Text,Floor,Created_Date,Status,Channel,Assigned_Team,Sentiment
+CASE-0001,PRJ-007,Seaside Grove,Resident,Turnover Schedule,Date confirmation,Turnover Schedule inquiry: date confirmation.,12,2026-08-22,Resolved,Chat,Property Management,Neutral
+CASE-0002,PRJ-002,South Coast Residences,Buyer,Turnover Schedule,Turnover delay question,Turnover Schedule inquiry: turnover delay question.,,2026-08-15,Resolved,Chat,Billing Support,Negative
+CASE-0003,PRJ-004,Harborview Residences,Resident,Turnover Schedule,Handover scheduling,Turnover Schedule inquiry: handover scheduling.,,2026-08-22,In Progress,Email,Customer Care,Negative
+CASE-0004,PRJ-002,South Coast Residences,Resident,Turnover Schedule,Turnover delay question,Turnover Schedule inquiry: turnover delay question.,20,2026-08-20,Resolved,Web Form,Property Management,Negative
+CASE-0005,PRJ-002,South Coast Residences,Owner,Turnover Schedule,Turnover delay question,Turnover Schedule inquiry: turnover delay question.,7,2026-08-08,Resolved,Property Desk,Customer Care,Neutral
+CASE-0006,PRJ-003,Central Park Tower,Resident,Turnover Schedule,Date confirmation,Turnover Schedule inquiry: date confirmation.,5,2026-08-19,Resolved,Call Center,Customer Care,Neutral
+CASE-0007,PRJ-007,Seaside Grove,Resident,Turnover Schedule,Date confirmation,Turnover Schedule inquiry: date confirmation.,21,2026-09-03,In Progress,Web Form,Customer Care,Negative
+CASE-0008,PRJ-001,Astra Heights Tower 2,Buyer,Turnover Schedule,Turnover delay question,Turnover Schedule inquiry: turnover delay question.,16,2026-08-28,Resolved,Call Center,Property Management,Neutral
+CASE-0009,PRJ-005,Riverfront District Residences,Buyer,Turnover Schedule,Handover scheduling,Turnover Schedule inquiry: handover scheduling.,,2026-08-31,Resolved,Chat,Customer Care,Negative
+CASE-0010,PRJ-008,Ridgeview District,Buyer,Turnover Schedule,Date confirmation,Turnover Schedule inquiry: date confirmation.,19,2026-08-12,Resolved,Call Center,Customer Care,Neutral
+CASE-0011,PRJ-004,Harborview Residences,Resident,Turnover Schedule,Turnover delay question,Turnover Schedule inquiry: turnover delay question.,2,2026-08-15,Open,Call Center,Property Management,Negative
+CASE-0012,PRJ-001,Astra Heights Tower 2,Resident,Turnover Schedule,Handover scheduling,Turnover Schedule inquiry: handover scheduling.,,2026-08-09,In Progress,Email,Customer Care,Negative
+CASE-0013,PRJ-005,Riverfront District Residences,Owner,Turnover Schedule,Date confirmation,Turnover Schedule inquiry: date confirmation.,12,2026-08-21,In Progress,Email,Property Management,Neutral
+CASE-0014,PRJ-002,South Coast Residences,Owner,Turnover Schedule,Date confirmation,Turnover Schedule inquiry: date confirmation.,10,2026-09-06,Resolved,Chat,Turnover,Negative
+CASE-0015,PRJ-002,South Coast Residences,Resident,Turnover Schedule,Date confirmation,Turnover Schedule inquiry: date confirmation.,23,2026-08-28,In Progress,Call Center,Customer Care,Neutral
+CASE-0016,PRJ-006,Northgate Commons,Buyer,Turnover Schedule,Date confirmation,Turnover Schedule inquiry: date confirmation.,22,2026-08-16,Open,Chat,Property Management,Neutral
+CASE-0017,PRJ-003,Central Park Tower,Buyer,Turnover Schedule,Move-in coordination,Turnover Schedule inquiry: move-in coordination.,,2026-08-09,Resolved,Chat,Property Management,Neutral
+CASE-0018,PRJ-003,Central Park Tower,Buyer,Turnover Schedule,Handover scheduling,Turnover Schedule inquiry: handover scheduling.,7,2026-09-02,Resolved,Call Center,Turnover,Negative
+CASE-0019,PRJ-006,Northgate Commons,Buyer,Turnover Schedule,Move-in coordination,Turnover Schedule inquiry: move-in coordination.,15,2026-08-23,Resolved,Call Center,Billing Support,Neutral
+CASE-0020,PRJ-006,Northgate Commons,Buyer,Turnover Schedule,Turnover delay question,Turnover Schedule inquiry: turnover delay question.,,2026-08-31,In Progress,Property Desk,Billing Support,Neutral
+CASE-0021,PRJ-003,Central Park Tower,Resident,Turnover Schedule,Move-in coordination,Turnover Schedule inquiry: move-in coordination.,,2026-08-24,Resolved,Call Center,Customer Care,Negative
+CASE-0022,PRJ-001,Astra Heights Tower 2,Owner,Turnover Schedule,Move-in coordination,Turnover Schedule inquiry: move-in coordination.,16,2026-08-24,Resolved,Call Center,Property Management,Negative
+CASE-0023,PRJ-002,South Coast Residences,Resident,Turnover Schedule,Date confirmation,Turnover Schedule inquiry: date confirmation.,,2026-08-08,Resolved,Property Desk,Turnover,Negative
+CASE-0024,PRJ-007,Seaside Grove,Resident,Turnover Schedule,Move-in coordination,Turnover Schedule inquiry: move-in coordination.,24,2026-08-27,Resolved,Web Form,Property Management,Negative
+CASE-0025,PRJ-006,Northgate Commons,Buyer,Turnover Schedule,Date confirmation,Turnover Schedule inquiry: date confirmation.,23,2026-09-06,Resolved,Email,Customer Care,Positive
+CASE-0026,PRJ-006,Northgate Commons,Resident,Turnover Schedule,Handover scheduling,Turnover Schedule inquiry: handover scheduling.,,2026-08-17,Resolved,Chat,Billing Support,Neutral
+CASE-0027,PRJ-006,Northgate Commons,Resident,Turnover Schedule,Handover scheduling,Turnover Schedule inquiry: handover scheduling.,17,2026-08-12,Resolved,Email,Billing Support,Neutral
+CASE-0028,PRJ-005,Riverfront District Residences,Buyer,Turnover Schedule,Handover scheduling,Turnover Schedule inquiry: handover scheduling.,16,2026-08-27,In Progress,Property Desk,Customer Care,Negative
+CASE-0029,PRJ-004,Harborview Residences,Buyer,Turnover Schedule,Handover scheduling,Turnover Schedule inquiry: handover scheduling.,3,2026-08-31,Open,Web Form,Turnover,Negative
+CASE-0030,PRJ-003,Central Park Tower,Buyer,Turnover Schedule,Date confirmation,Turnover Schedule inquiry: date confirmation.,9,2026-08-31,Resolved,Chat,Billing Support,Neutral
+CASE-0031,PRJ-003,Central Park Tower,Owner,Turnover Schedule,Turnover delay question,Turnover Schedule inquiry: turnover delay question.,13,2026-08-28,Resolved,Property Desk,Customer Care,Negative
+CASE-0032,PRJ-004,Harborview Residences,Buyer,Turnover Schedule,Turnover delay question,Turnover Schedule inquiry: turnover delay question.,,2026-08-29,Resolved,Property Desk,Property Management,Negative
+CASE-0033,PRJ-004,Harborview Residences,Buyer,Turnover Schedule,Date confirmation,Turnover Schedule inquiry: date confirmation.,9,2026-08-29,Resolved,Chat,Turnover,Negative
+CASE-0034,PRJ-007,Seaside Grove,Owner,Turnover Schedule,Handover scheduling,Turnover Schedule inquiry: handover scheduling.,16,2026-08-23,Open,Email,Customer Care,Negative
+CASE-0035,PRJ-006,Northgate Commons,Buyer,Turnover Schedule,Move-in coordination,Turnover Schedule inquiry: move-in coordination.,19,2026-08-24,Resolved,Chat,Turnover,Negative
+CASE-0036,PRJ-002,South Coast Residences,Buyer,Turnover Schedule,Date confirmation,Turnover Schedule inquiry: date confirmation.,,2026-08-21,Resolved,Email,Billing Support,Negative
+CASE-0037,PRJ-005,Riverfront District Residences,Owner,Turnover Schedule,Move-in coordination,Turnover Schedule inquiry: move-in coordination.,5,2026-08-17,Resolved,Email,Property Management,Negative
+CASE-0038,PRJ-003,Central Park Tower,Resident,Turnover Schedule,Handover scheduling,Turnover Schedule inquiry: handover scheduling.,,2026-08-27,Open,Call Center,Customer Care,Negative
+CASE-0039,PRJ-006,Northgate Commons,Resident,Turnover Schedule,Handover scheduling,Turnover Schedule inquiry: handover scheduling.,25,2026-08-22,In Progress,Web Form,Property Management,Negative
+CASE-0040,PRJ-003,Central Park Tower,Owner,Turnover Schedule,Turnover delay question,Turnover Schedule inquiry: turnover delay question.,4,2026-09-02,Resolved,Call Center,Turnover,Negative
+CASE-0041,PRJ-007,Seaside Grove,Owner,Turnover Schedule,Move-in coordination,Turnover Schedule inquiry: move-in coordination.,9,2026-08-31,Resolved,Email,Customer Care,Negative
+CASE-0042,PRJ-008,Ridgeview District,Owner,Turnover Schedule,Date confirmation,Turnover Schedule inquiry: date confirmation.,2,2026-08-27,Resolved,Call Center,Billing Support,Neutral
+CASE-0043,PRJ-005,Riverfront District Residences,Buyer,Turnover Schedule,Move-in coordination,Turnover Schedule inquiry: move-in coordination.,8,2026-09-02,In Progress,Property Desk,Property Management,Neutral
+CASE-0044,PRJ-008,Ridgeview District,Resident,Turnover Schedule,Move-in coordination,Turnover Schedule inquiry: move-in coordination.,23,2026-08-21,Resolved,Email,Customer Care,Neutral
+CASE-0045,PRJ-005,Riverfront District Residences,Buyer,Turnover Schedule,Handover scheduling,Turnover Schedule inquiry: handover scheduling.,7,2026-09-05,Open,Call Center,Turnover,Negative
+CASE-0046,PRJ-007,Seaside Grove,Buyer,Turnover Schedule,Handover scheduling,Turnover Schedule inquiry: handover scheduling.,4,2026-08-24,Resolved,Chat,Billing Support,Neutral
+CASE-0047,PRJ-005,Riverfront District Residences,Resident,Turnover Schedule,Date confirmation,Turnover Schedule inquiry: date confirmation.,18,2026-08-11,Resolved,Email,Billing Support,Neutral
+CASE-0048,PRJ-004,Harborview Residences,Owner,Turnover Schedule,Move-in coordination,Turnover Schedule inquiry: move-in coordination.,16,2026-08-22,Resolved,Call Center,Turnover,Neutral
+CASE-0049,PRJ-003,Central Park Tower,Buyer,Turnover Schedule,Handover scheduling,Turnover Schedule inquiry: handover scheduling.,5,2026-08-24,Resolved,Property Desk,Billing Support,Negative
+CASE-0050,PRJ-004,Harborview Residences,Resident,Turnover Schedule,Date confirmation,Turnover Schedule inquiry: date confirmation.,8,2026-08-26,Open,Property Desk,Customer Care,Negative
+CASE-0051,PRJ-007,Seaside Grove,Owner,Turnover Schedule,Move-in coordination,Turnover Schedule inquiry: move-in coordination.,5,2026-08-13,In Progress,Email,Turnover,Positive
+CASE-0052,PRJ-004,Harborview Residences,Resident,Turnover Schedule,Turnover delay question,Turnover Schedule inquiry: turnover delay question.,20,2026-08-28,In Progress,Chat,Customer Care,Neutral
+CASE-0053,PRJ-002,South Coast Residences,Buyer,Turnover Schedule,Handover scheduling,Turnover Schedule inquiry: handover scheduling.,23,2026-08-20,Resolved,Email,Turnover,Negative
+CASE-0054,PRJ-002,South Coast Residences,Owner,Turnover Schedule,Handover scheduling,Turnover Schedule inquiry: handover scheduling.,11,2026-08-24,In Progress,Property Desk,Billing Support,Negative
+CASE-0055,PRJ-001,Astra Heights Tower 2,Owner,Turnover Schedule,Turnover delay question,Turnover Schedule inquiry: turnover delay question.,5,2026-08-21,Resolved,Call Center,Billing Support,Negative
+CASE-0056,PRJ-006,Northgate Commons,Owner,Turnover Schedule,Move-in coordination,Turnover Schedule inquiry: move-in coordination.,16,2026-09-05,Resolved,Property Desk,Property Management,Negative
+CASE-0057,PRJ-001,Astra Heights Tower 2,Resident,Turnover Schedule,Move-in coordination,Turnover Schedule inquiry: move-in coordination.,12,2026-09-11,Open,Email,Billing Support,Neutral
+CASE-0058,PRJ-003,Central Park Tower,Owner,Turnover Schedule,Turnover delay question,Turnover Schedule inquiry: turnover delay question.,9,2026-09-24,Open,Email,Customer Care,Neutral
+CASE-0059,PRJ-004,Harborview Residences,Buyer,Turnover Schedule,Date confirmation,Turnover Schedule inquiry: date confirmation.,16,2026-09-08,In Progress,Email,Turnover,Negative
+CASE-0060,PRJ-008,Ridgeview District,Buyer,Turnover Schedule,Move-in coordination,Turnover Schedule inquiry: move-in coordination.,12,2026-09-13,Open,Call Center,Property Management,Negative
+CASE-0061,PRJ-003,Central Park Tower,Buyer,Turnover Schedule,Date confirmation,Turnover Schedule inquiry: date confirmation.,20,2026-09-23,Open,Chat,Billing Support,Neutral
+CASE-0062,PRJ-003,Central Park Tower,Buyer,Turnover Schedule,Move-in coordination,Turnover Schedule inquiry: move-in coordination.,,2026-09-14,Resolved,Email,Customer Care,Neutral
+CASE-0063,PRJ-006,Northgate Commons,Owner,Turnover Schedule,Move-in coordination,Turnover Schedule inquiry: move-in coordination.,25,2026-10-05,In Progress,Property Desk,Turnover,Negative
+CASE-0064,PRJ-001,Astra Heights Tower 2,Buyer,Turnover Schedule,Move-in coordination,Turnover Schedule inquiry: move-in coordination.,18,2026-09-29,Open,Web Form,Property Management,Negative
+CASE-0065,PRJ-003,Central Park Tower,Buyer,Turnover Schedule,Date confirmation,Turnover Schedule inquiry: date confirmation.,,2026-09-12,Open,Chat,Customer Care,Neutral
+CASE-0066,PRJ-007,Seaside Grove,Resident,Turnover Schedule,Move-in coordination,Turnover Schedule inquiry: move-in coordination.,,2026-09-17,Resolved,Call Center,Property Management,Negative
+CASE-0067,PRJ-004,Harborview Residences,Owner,Turnover Schedule,Date confirmation,Turnover Schedule inquiry: date confirmation.,,2026-09-23,Open,Email,Customer Care,Negative
+CASE-0068,PRJ-002,South Coast Residences,Owner,Turnover Schedule,Handover scheduling,Turnover Schedule inquiry: handover scheduling.,,2026-09-24,Resolved,Property Desk,Customer Care,Negative
+CASE-0069,PRJ-002,South Coast Residences,Buyer,Turnover Schedule,Date confirmation,Turnover Schedule inquiry: date confirmation.,15,2026-09-08,Resolved,Call Center,Property Management,Negative
+CASE-0070,PRJ-002,South Coast Residences,Buyer,Turnover Schedule,Handover scheduling,Turnover Schedule inquiry: handover scheduling.,3,2026-10-05,In Progress,Chat,Property Management,Negative
+CASE-0071,PRJ-003,Central Park Tower,Resident,Turnover Schedule,Handover scheduling,Turnover Schedule inquiry: handover scheduling.,8,2026-09-27,Resolved,Email,Billing Support,Neutral
+CASE-0072,PRJ-005,Riverfront District Residences,Owner,Turnover Schedule,Date confirmation,Turnover Schedule inquiry: date confirmation.,25,2026-09-21,In Progress,Call Center,Turnover,Neutral
+CASE-0073,PRJ-002,South Coast Residences,Resident,Turnover Schedule,Move-in coordination,Turnover Schedule inquiry: move-in coordination.,14,2026-09-13,Resolved,Web Form,Turnover,Negative
+CASE-0074,PRJ-008,Ridgeview District,Resident,Turnover Schedule,Date confirmation,Turnover Schedule inquiry: date confirmation.,19,2026-09-10,Resolved,Web Form,Billing Support,Negative
+CASE-0075,PRJ-004,Harborview Residences,Owner,Turnover Schedule,Handover scheduling,Turnover Schedule inquiry: handover scheduling.,,2026-09-08,Resolved,Call Center,Customer Care,Negative
+CASE-0076,PRJ-007,Seaside Grove,Resident,Turnover Schedule,Turnover delay question,Turnover Schedule inquiry: turnover delay question.,8,2026-09-15,Resolved,Web Form,Property Management,Neutral
+CASE-0077,PRJ-001,Astra Heights Tower 2,Owner,Turnover Schedule,Move-in coordination,Turnover Schedule inquiry: move-in coordination.,,2026-09-09,Resolved,Call Center,Property Management,Neutral
+CASE-0078,PRJ-007,Seaside Grove,Resident,Turnover Schedule,Date confirmation,Turnover Schedule inquiry: date confirmation.,3,2026-09-22,Resolved,Web Form,Customer Care,Negative
+CASE-0079,PRJ-001,Astra Heights Tower 2,Buyer,Turnover Schedule,Turnover delay question,Turnover Schedule inquiry: turnover delay question.,25,2026-09-25,Resolved,Chat,Property Management,Negative
+CASE-0080,PRJ-007,Seaside Grove,Owner,Turnover Schedule,Date confirmation,Turnover Schedule inquiry: date confirmation.,4,2026-09-18,Open,Chat,Property Management,Neutral
+CASE-0081,PRJ-003,Central Park Tower,Resident,Turnover Schedule,Date confirmation,Turnover Schedule inquiry: date confirmation.,18,2026-09-27,Resolved,Web Form,Customer Care,Positive
+CASE-0082,PRJ-007,Seaside Grove,Resident,Turnover Schedule,Date confirmation,Turnover Schedule inquiry: date confirmation.,,2026-09-18,Resolved,Property Desk,Customer Care,Negative
+CASE-0083,PRJ-002,South Coast Residences,Owner,Turnover Schedule,Handover scheduling,Turnover Schedule inquiry: handover scheduling.,3,2026-09-13,Resolved,Web Form,Property Management,Neutral
+CASE-0084,PRJ-004,Harborview Residences,Buyer,Turnover Schedule,Turnover delay question,Turnover Schedule inquiry: turnover delay question.,11,2026-09-15,Resolved,Call Center,Property Management,Neutral
+CASE-0085,PRJ-003,Central Park Tower,Resident,Turnover Schedule,Move-in coordination,Turnover Schedule inquiry: move-in coordination.,3,2026-09-30,In Progress,Email,Property Management,Neutral
+CASE-0086,PRJ-006,Northgate Commons,Resident,Turnover Schedule,Date confirmation,Turnover Schedule inquiry: date confirmation.,,2026-09-24,Open,Email,Turnover,Negative
+CASE-0087,PRJ-003,Central Park Tower,Resident,Turnover Schedule,Turnover delay question,Turnover Schedule inquiry: turnover delay question.,2,2026-09-27,In Progress,Property Desk,Customer Care,Negative
+CASE-0088,PRJ-004,Harborview Residences,Owner,Turnover Schedule,Turnover delay question,Turnover Schedule inquiry: turnover delay question.,9,2026-09-28,Resolved,Web Form,Turnover,Neutral
+CASE-0089,PRJ-003,Central Park Tower,Owner,Turnover Schedule,Handover scheduling,Turnover Schedule inquiry: handover scheduling.,,2026-09-30,Open,Web Form,Turnover,Negative
+CASE-0090,PRJ-003,Central Park Tower,Buyer,Turnover Schedule,Handover scheduling,Turnover Schedule inquiry: handover scheduling.,15,2026-09-25,Resolved,Email,Billing Support,Negative
+CASE-0091,PRJ-005,Riverfront District Residences,Owner,Turnover Schedule,Move-in coordination,Turnover Schedule inquiry: move-in coordination.,13,2026-09-21,Open,Chat,Customer Care,Neutral
+CASE-0092,PRJ-005,Riverfront District Residences,Buyer,Turnover Schedule,Turnover delay question,Turnover Schedule inquiry: turnover delay question.,,2026-10-06,Resolved,Web Form,Billing Support,Neutral
+CASE-0093,PRJ-002,South Coast Residences,Owner,Turnover Schedule,Turnover delay question,Turnover Schedule inquiry: turnover delay question.,,2026-09-27,Resolved,Call Center,Billing Support,Neutral
+CASE-0094,PRJ-002,South Coast Residences,Owner,Turnover Schedule,Move-in coordination,Turnover Schedule inquiry: move-in coordination.,18,2026-09-28,Resolved,Call Center,Customer Care,Neutral
+CASE-0095,PRJ-008,Ridgeview District,Resident,Turnover Schedule,Move-in coordination,Turnover Schedule inquiry: move-in coordination.,2,2026-09-19,In Progress,Email,Property Management,Negative
+CASE-0096,PRJ-004,Harborview Residences,Owner,Turnover Schedule,Date confirmation,Turnover Schedule inquiry: date confirmation.,15,2026-09-28,Open,Property Desk,Turnover,Negative
+CASE-0097,PRJ-002,South Coast Residences,Owner,Turnover Schedule,Handover scheduling,Turnover Schedule inquiry: handover scheduling.,,2026-09-24,Open,Call Center,Billing Support,Positive
+CASE-0098,PRJ-007,Seaside Grove,Buyer,Turnover Schedule,Date confirmation,Turnover Schedule inquiry: date confirmation.,22,2026-09-11,In Progress,Web Form,Billing Support,Neutral
+CASE-0099,PRJ-006,Northgate Commons,Buyer,Turnover Schedule,Date confirmation,Turnover Schedule inquiry: date confirmation.,17,2026-09-23,Open,Web Form,Property Management,Neutral
+CASE-0100,PRJ-008,Ridgeview District,Owner,Turnover Schedule,Handover scheduling,Turnover Schedule inquiry: handover scheduling.,10,2026-09-30,In Progress,Email,Customer Care,Neutral
+CASE-0101,PRJ-003,Central Park Tower,Buyer,Turnover Schedule,Date confirmation,Turnover Schedule inquiry: date confirmation.,8,2026-09-29,In Progress,Chat,Property Management,Negative
+CASE-0102,PRJ-007,Seaside Grove,Buyer,Turnover Schedule,Move-in coordination,Turnover Schedule inquiry: move-in coordination.,,2026-09-29,Resolved,Web Form,Property Management,Neutral
+CASE-0103,PRJ-006,Northgate Commons,Owner,Turnover Schedule,Date confirmation,Turnover Schedule inquiry: date confirmation.,13,2026-09-20,Open,Chat,Customer Care,Negative
+CASE-0104,PRJ-008,Ridgeview District,Resident,Turnover Schedule,Move-in coordination,Turnover Schedule inquiry: move-in coordination.,12,2026-10-02,Open,Chat,Billing Support,Neutral
+CASE-0105,PRJ-002,South Coast Residences,Buyer,Turnover Schedule,Handover scheduling,Turnover Schedule inquiry: handover scheduling.,23,2026-09-29,In Progress,Email,Property Management,Neutral
+CASE-0106,PRJ-001,Astra Heights Tower 2,Resident,Turnover Schedule,Handover scheduling,Turnover Schedule inquiry: handover scheduling.,4,2026-09-21,Open,Property Desk,Turnover,Neutral
+CASE-0107,PRJ-003,Central Park Tower,Resident,Turnover Schedule,Turnover delay question,Turnover Schedule inquiry: turnover delay question.,,2026-09-12,Open,Web Form,Turnover,Neutral
+CASE-0108,PRJ-004,Harborview Residences,Resident,Turnover Schedule,Date confirmation,Turnover Schedule inquiry: date confirmation.,12,2026-09-18,Open,Web Form,Customer Care,Neutral
+CASE-0109,PRJ-008,Ridgeview District,Resident,Turnover Schedule,Handover scheduling,Turnover Schedule inquiry: handover scheduling.,,2026-09-12,Resolved,Web Form,Customer Care,Negative
+CASE-0110,PRJ-005,Riverfront District Residences,Resident,Turnover Schedule,Turnover delay question,Turnover Schedule inquiry: turnover delay question.,24,2026-09-30,In Progress,Property Desk,Property Management,Positive
+CASE-0111,PRJ-001,Astra Heights Tower 2,Buyer,Turnover Schedule,Turnover delay question,Turnover Schedule inquiry: turnover delay question.,23,2026-09-30,Resolved,Call Center,Billing Support,Negative
+CASE-0112,PRJ-001,Astra Heights Tower 2,Owner,Turnover Schedule,Date confirmation,Turnover Schedule inquiry: date confirmation.,23,2026-10-02,Open,Call Center,Property Management,Negative
+CASE-0113,PRJ-006,Northgate Commons,Buyer,Turnover Schedule,Move-in coordination,Turnover Schedule inquiry: move-in coordination.,25,2026-09-18,In Progress,Call Center,Billing Support,Positive
+CASE-0114,PRJ-003,Central Park Tower,Owner,Turnover Schedule,Move-in coordination,Turnover Schedule inquiry: move-in coordination.,,2026-10-02,Resolved,Web Form,Property Management,Positive
+CASE-0115,PRJ-007,Seaside Grove,Buyer,Turnover Schedule,Move-in coordination,Turnover Schedule inquiry: move-in coordination.,,2026-09-21,In Progress,Chat,Customer Care,Negative
+CASE-0116,PRJ-008,Ridgeview District,Resident,Turnover Schedule,Move-in coordination,Turnover Schedule inquiry: move-in coordination.,16,2026-09-13,Resolved,Web Form,Billing Support,Neutral
+CASE-0117,PRJ-004,Harborview Residences,Buyer,Turnover Schedule,Move-in coordination,Turnover Schedule inquiry: move-in coordination.,16,2026-09-11,Open,Chat,Customer Care,Neutral
+CASE-0118,PRJ-002,South Coast Residences,Resident,Turnover Schedule,Turnover delay question,Turnover Schedule inquiry: turnover delay question.,20,2026-10-02,In Progress,Chat,Billing Support,Negative
+CASE-0119,PRJ-007,Seaside Grove,Resident,Turnover Schedule,Move-in coordination,Turnover Schedule inquiry: move-in coordination.,16,2026-10-05,Open,Web Form,Customer Care,Neutral
+CASE-0120,PRJ-005,Riverfront District Residences,Owner,Turnover Schedule,Date confirmation,Turnover Schedule inquiry: date confirmation.,3,2026-09-13,Open,Call Center,Billing Support,Negative
+CASE-0121,PRJ-003,Central Park Tower,Buyer,Turnover Schedule,Move-in coordination,Turnover Schedule inquiry: move-in coordination.,,2026-09-07,Resolved,Property Desk,Turnover,Negative
+CASE-0122,PRJ-006,Northgate Commons,Resident,Turnover Schedule,Turnover delay question,Turnover Schedule inquiry: turnover delay question.,4,2026-10-04,Open,Email,Customer Care,Neutral
+CASE-0123,PRJ-007,Seaside Grove,Owner,Turnover Schedule,Move-in coordination,Turnover Schedule inquiry: move-in coordination.,3,2026-09-29,In Progress,Web Form,Customer Care,Negative
+CASE-0124,PRJ-006,Northgate Commons,Resident,Turnover Schedule,Handover scheduling,Turnover Schedule inquiry: handover scheduling.,2,2026-09-17,Resolved,Web Form,Customer Care,Negative
+CASE-0125,PRJ-001,Astra Heights Tower 2,Buyer,Documentation,Loan documentation,Documentation inquiry: loan documentation.,,2026-08-16,Resolved,Web Form,Turnover,Negative
+CASE-0126,PRJ-004,Harborview Residences,Buyer,Documentation,Loan documentation,Documentation inquiry: loan documentation.,20,2026-08-26,Resolved,Web Form,Turnover,Negative
+CASE-0127,PRJ-005,Riverfront District Residences,Buyer,Documentation,Document status,Documentation inquiry: document status.,10,2026-08-11,Resolved,Property Desk,Turnover,Negative
+CASE-0128,PRJ-002,South Coast Residences,Owner,Documentation,Loan documentation,Documentation inquiry: loan documentation.,2,2026-08-31,Open,Call Center,Customer Care,Negative
+CASE-0129,PRJ-007,Seaside Grove,Buyer,Documentation,Title / deed question,Documentation inquiry: title / deed question.,,2026-08-31,Resolved,Property Desk,Property Management,Positive
+CASE-0130,PRJ-005,Riverfront District Residences,Owner,Documentation,Loan documentation,Documentation inquiry: loan documentation.,2,2026-08-16,Resolved,Property Desk,Billing Support,Negative
+CASE-0131,PRJ-007,Seaside Grove,Buyer,Documentation,Document status,Documentation inquiry: document status.,23,2026-08-14,Resolved,Email,Customer Care,Neutral
+CASE-0132,PRJ-005,Riverfront District Residences,Buyer,Documentation,Loan documentation,Documentation inquiry: loan documentation.,,2026-08-20,Resolved,Property Desk,Turnover,Neutral
+CASE-0133,PRJ-001,Astra Heights Tower 2,Owner,Documentation,Document status,Documentation inquiry: document status.,4,2026-08-12,Resolved,Web Form,Turnover,Neutral
+CASE-0134,PRJ-003,Central Park Tower,Owner,Documentation,Document status,Documentation inquiry: document status.,3,2026-08-29,Resolved,Web Form,Billing Support,Neutral
+CASE-0135,PRJ-001,Astra Heights Tower 2,Resident,Documentation,Requirement clarification,Documentation inquiry: requirement clarification.,17,2026-08-16,Resolved,Web Form,Customer Care,Negative
+CASE-0136,PRJ-004,Harborview Residences,Resident,Documentation,Document status,Documentation inquiry: document status.,,2026-08-29,Open,Chat,Customer Care,Neutral
+CASE-0137,PRJ-004,Harborview Residences,Owner,Documentation,Document status,Documentation inquiry: document status.,,2026-08-14,Open,Email,Turnover,Negative
+CASE-0138,PRJ-003,Central Park Tower,Resident,Documentation,Document status,Documentation inquiry: document status.,,2026-08-25,Resolved,Property Desk,Turnover,Negative
+CASE-0139,PRJ-003,Central Park Tower,Owner,Documentation,Document status,Documentation inquiry: document status.,14,2026-08-26,Resolved,Property Desk,Billing Support,Negative
+CASE-0140,PRJ-002,South Coast Residences,Owner,Documentation,Document status,Documentation inquiry: document status.,25,2026-08-25,In Progress,Email,Billing Support,Negative
+CASE-0141,PRJ-007,Seaside Grove,Buyer,Documentation,Loan documentation,Documentation inquiry: loan documentation.,,2026-08-29,Resolved,Call Center,Turnover,Positive
+CASE-0142,PRJ-006,Northgate Commons,Buyer,Documentation,Loan documentation,Documentation inquiry: loan documentation.,11,2026-08-24,Resolved,Chat,Turnover,Negative
+CASE-0143,PRJ-006,Northgate Commons,Owner,Documentation,Title / deed question,Documentation inquiry: title / deed question.,,2026-08-22,In Progress,Call Center,Property Management,Negative
+CASE-0144,PRJ-003,Central Park Tower,Buyer,Documentation,Loan documentation,Documentation inquiry: loan documentation.,,2026-08-15,In Progress,Property Desk,Customer Care,Neutral
+CASE-0145,PRJ-002,South Coast Residences,Owner,Documentation,Document status,Documentation inquiry: document status.,,2026-08-17,Resolved,Call Center,Turnover,Neutral
+CASE-0146,PRJ-004,Harborview Residences,Owner,Documentation,Title / deed question,Documentation inquiry: title / deed question.,18,2026-08-15,Open,Chat,Billing Support,Neutral
+CASE-0147,PRJ-005,Riverfront District Residences,Owner,Documentation,Loan documentation,Documentation inquiry: loan documentation.,8,2026-08-30,Resolved,Property Desk,Billing Support,Neutral
+CASE-0148,PRJ-003,Central Park Tower,Owner,Documentation,Title / deed question,Documentation inquiry: title / deed question.,3,2026-08-21,Resolved,Call Center,Customer Care,Neutral
+CASE-0149,PRJ-004,Harborview Residences,Buyer,Documentation,Loan documentation,Documentation inquiry: loan documentation.,12,2026-08-26,Resolved,Chat,Property Management,Negative
+CASE-0150,PRJ-008,Ridgeview District,Buyer,Documentation,Requirement clarification,Documentation inquiry: requirement clarification.,,2026-08-08,In Progress,Property Desk,Property Management,Neutral
+CASE-0151,PRJ-004,Harborview Residences,Buyer,Documentation,Title / deed question,Documentation inquiry: title / deed question.,8,2026-08-25,In Progress,Call Center,Property Management,Negative
+CASE-0152,PRJ-007,Seaside Grove,Resident,Documentation,Title / deed question,Documentation inquiry: title / deed question.,,2026-09-05,Resolved,Call Center,Turnover,Neutral
+CASE-0153,PRJ-003,Central Park Tower,Owner,Documentation,Loan documentation,Documentation inquiry: loan documentation.,13,2026-09-05,Resolved,Property Desk,Billing Support,Neutral
+CASE-0154,PRJ-001,Astra Heights Tower 2,Resident,Documentation,Document status,Documentation inquiry: document status.,16,2026-08-29,Resolved,Property Desk,Billing Support,Negative
+CASE-0155,PRJ-001,Astra Heights Tower 2,Buyer,Documentation,Document status,Documentation inquiry: document status.,,2026-08-09,Resolved,Email,Property Management,Negative
+CASE-0156,PRJ-004,Harborview Residences,Owner,Documentation,Document status,Documentation inquiry: document status.,6,2026-08-09,Resolved,Email,Turnover,Neutral
+CASE-0157,PRJ-002,South Coast Residences,Resident,Documentation,Loan documentation,Documentation inquiry: loan documentation.,14,2026-09-06,Resolved,Call Center,Billing Support,Neutral
+CASE-0158,PRJ-001,Astra Heights Tower 2,Resident,Documentation,Loan documentation,Documentation inquiry: loan documentation.,11,2026-08-17,In Progress,Property Desk,Turnover,Neutral
+CASE-0159,PRJ-003,Central Park Tower,Buyer,Documentation,Loan documentation,Documentation inquiry: loan documentation.,20,2026-08-23,In Progress,Web Form,Property Management,Neutral
+CASE-0160,PRJ-004,Harborview Residences,Resident,Documentation,Loan documentation,Documentation inquiry: loan documentation.,12,2026-08-20,In Progress,Email,Billing Support,Negative
+CASE-0161,PRJ-002,South Coast Residences,Resident,Documentation,Loan documentation,Documentation inquiry: loan documentation.,,2026-09-02,Resolved,Chat,Billing Support,Neutral
+CASE-0162,PRJ-003,Central Park Tower,Owner,Documentation,Requirement clarification,Documentation inquiry: requirement clarification.,19,2026-08-09,Resolved,Call Center,Billing Support,Negative
+CASE-0163,PRJ-006,Northgate Commons,Resident,Documentation,Loan documentation,Documentation inquiry: loan documentation.,17,2026-08-14,Resolved,Web Form,Customer Care,Negative
+CASE-0164,PRJ-005,Riverfront District Residences,Buyer,Documentation,Document status,Documentation inquiry: document status.,,2026-08-26,Resolved,Web Form,Customer Care,Negative
+CASE-0165,PRJ-008,Ridgeview District,Buyer,Documentation,Loan documentation,Documentation inquiry: loan documentation.,2,2026-08-17,Resolved,Web Form,Customer Care,Negative
+CASE-0166,PRJ-007,Seaside Grove,Resident,Documentation,Title / deed question,Documentation inquiry: title / deed question.,20,2026-08-16,Resolved,Email,Customer Care,Neutral
+CASE-0167,PRJ-002,South Coast Residences,Buyer,Documentation,Loan documentation,Documentation inquiry: loan documentation.,,2026-09-05,Resolved,Property Desk,Turnover,Neutral
+CASE-0168,PRJ-004,Harborview Residences,Owner,Documentation,Requirement clarification,Documentation inquiry: requirement clarification.,16,2026-08-20,Resolved,Call Center,Property Management,Neutral
+CASE-0169,PRJ-001,Astra Heights Tower 2,Resident,Documentation,Requirement clarification,Documentation inquiry: requirement clarification.,24,2026-09-09,Resolved,Web Form,Billing Support,Negative
+CASE-0170,PRJ-006,Northgate Commons,Owner,Documentation,Requirement clarification,Documentation inquiry: requirement clarification.,,2026-09-29,Resolved,Web Form,Turnover,Positive
+CASE-0171,PRJ-006,Northgate Commons,Resident,Documentation,Document status,Documentation inquiry: document status.,7,2026-09-23,Open,Email,Billing Support,Positive
+CASE-0172,PRJ-005,Riverfront District Residences,Resident,Documentation,Loan documentation,Documentation inquiry: loan documentation.,,2026-09-10,Open,Chat,Turnover,Neutral
+CASE-0173,PRJ-008,Ridgeview District,Buyer,Documentation,Title / deed question,Documentation inquiry: title / deed question.,10,2026-10-06,Resolved,Chat,Billing Support,Neutral
+CASE-0174,PRJ-002,South Coast Residences,Resident,Documentation,Loan documentation,Documentation inquiry: loan documentation.,9,2026-09-30,In Progress,Email,Billing Support,Neutral
+CASE-0175,PRJ-006,Northgate Commons,Resident,Documentation,Loan documentation,Documentation inquiry: loan documentation.,7,2026-09-10,Resolved,Email,Turnover,Negative
+CASE-0176,PRJ-004,Harborview Residences,Owner,Documentation,Title / deed question,Documentation inquiry: title / deed question.,,2026-09-25,In Progress,Call Center,Property Management,Neutral
+CASE-0177,PRJ-003,Central Park Tower,Owner,Documentation,Loan documentation,Documentation inquiry: loan documentation.,4,2026-09-26,Resolved,Call Center,Customer Care,Negative
+CASE-0178,PRJ-001,Astra Heights Tower 2,Resident,Documentation,Document status,Documentation inquiry: document status.,18,2026-09-13,Resolved,Call Center,Customer Care,Negative
+CASE-0179,PRJ-008,Ridgeview District,Owner,Documentation,Requirement clarification,Documentation inquiry: requirement clarification.,,2026-10-02,In Progress,Call Center,Turnover,Neutral
+CASE-0180,PRJ-008,Ridgeview District,Resident,Documentation,Loan documentation,Documentation inquiry: loan documentation.,21,2026-09-08,In Progress,Property Desk,Turnover,Negative
+CASE-0181,PRJ-002,South Coast Residences,Resident,Documentation,Title / deed question,Documentation inquiry: title / deed question.,2,2026-09-26,Open,Call Center,Turnover,Negative
+CASE-0182,PRJ-005,Riverfront District Residences,Buyer,Documentation,Document status,Documentation inquiry: document status.,9,2026-10-04,Resolved,Property Desk,Billing Support,Neutral
+CASE-0183,PRJ-006,Northgate Commons,Buyer,Documentation,Requirement clarification,Documentation inquiry: requirement clarification.,2,2026-09-07,Resolved,Call Center,Customer Care,Neutral
+CASE-0184,PRJ-007,Seaside Grove,Owner,Documentation,Title / deed question,Documentation inquiry: title / deed question.,22,2026-09-14,Open,Call Center,Customer Care,Negative
+CASE-0185,PRJ-005,Riverfront District Residences,Resident,Documentation,Document status,Documentation inquiry: document status.,21,2026-09-21,Open,Call Center,Turnover,Neutral
+CASE-0186,PRJ-001,Astra Heights Tower 2,Owner,Documentation,Title / deed question,Documentation inquiry: title / deed question.,4,2026-10-04,In Progress,Web Form,Turnover,Neutral
+CASE-0187,PRJ-001,Astra Heights Tower 2,Owner,Documentation,Requirement clarification,Documentation inquiry: requirement clarification.,25,2026-10-05,Resolved,Call Center,Property Management,Negative
+CASE-0188,PRJ-007,Seaside Grove,Buyer,Documentation,Requirement clarification,Documentation inquiry: requirement clarification.,10,2026-09-09,In Progress,Call Center,Turnover,Neutral
+CASE-0189,PRJ-001,Astra Heights Tower 2,Buyer,Documentation,Document status,Documentation inquiry: document status.,9,2026-09-07,Resolved,Call Center,Property Management,Negative
+CASE-0190,PRJ-007,Seaside Grove,Buyer,Documentation,Loan documentation,Documentation inquiry: loan documentation.,2,2026-09-19,Resolved,Property Desk,Property Management,Negative
+CASE-0191,PRJ-003,Central Park Tower,Buyer,Documentation,Requirement clarification,Documentation inquiry: requirement clarification.,4,2026-09-11,In Progress,Property Desk,Billing Support,Positive
+CASE-0192,PRJ-003,Central Park Tower,Resident,Documentation,Document status,Documentation inquiry: document status.,21,2026-09-07,Open,Web Form,Billing Support,Negative
+CASE-0193,PRJ-005,Riverfront District Residences,Buyer,Documentation,Requirement clarification,Documentation inquiry: requirement clarification.,,2026-09-22,Open,Chat,Turnover,Negative
+CASE-0194,PRJ-005,Riverfront District Residences,Buyer,Documentation,Title / deed question,Documentation inquiry: title / deed question.,,2026-09-13,Resolved,Email,Turnover,Negative
+CASE-0195,PRJ-004,Harborview Residences,Owner,Documentation,Requirement clarification,Documentation inquiry: requirement clarification.,8,2026-09-07,Open,Call Center,Turnover,Neutral
+CASE-0196,PRJ-001,Astra Heights Tower 2,Resident,Documentation,Title / deed question,Documentation inquiry: title / deed question.,16,2026-09-19,Open,Chat,Turnover,Neutral
+CASE-0197,PRJ-003,Central Park Tower,Buyer,Documentation,Loan documentation,Documentation inquiry: loan documentation.,22,2026-09-27,Resolved,Email,Property Management,Neutral
+CASE-0198,PRJ-006,Northgate Commons,Resident,Documentation,Document status,Documentation inquiry: document status.,13,2026-09-29,In Progress,Chat,Property Management,Negative
+CASE-0199,PRJ-006,Northgate Commons,Buyer,Documentation,Requirement clarification,Documentation inquiry: requirement clarification.,8,2026-09-11,Resolved,Call Center,Property Management,Negative
+CASE-0200,PRJ-002,South Coast Residences,Resident,Documentation,Document status,Documentation inquiry: document status.,13,2026-10-04,Resolved,Email,Turnover,Neutral
+CASE-0201,PRJ-005,Riverfront District Residences,Buyer,Documentation,Loan documentation,Documentation inquiry: loan documentation.,6,2026-09-20,Resolved,Email,Property Management,Neutral
+CASE-0202,PRJ-001,Astra Heights Tower 2,Owner,Documentation,Requirement clarification,Documentation inquiry: requirement clarification.,21,2026-09-28,Open,Chat,Turnover,Neutral
+CASE-0203,PRJ-001,Astra Heights Tower 2,Resident,Documentation,Requirement clarification,Documentation inquiry: requirement clarification.,3,2026-09-12,Resolved,Web Form,Customer Care,Neutral
+CASE-0204,PRJ-007,Seaside Grove,Buyer,Documentation,Requirement clarification,Documentation inquiry: requirement clarification.,21,2026-10-04,Resolved,Chat,Customer Care,Negative
+CASE-0205,PRJ-004,Harborview Residences,Owner,Documentation,Document status,Documentation inquiry: document status.,14,2026-10-03,In Progress,Chat,Billing Support,Neutral
+CASE-0206,PRJ-006,Northgate Commons,Resident,Documentation,Document status,Documentation inquiry: document status.,16,2026-10-04,Open,Chat,Billing Support,Neutral
+CASE-0207,PRJ-002,South Coast Residences,Resident,Documentation,Requirement clarification,Documentation inquiry: requirement clarification.,12,2026-09-17,In Progress,Property Desk,Customer Care,Neutral
+CASE-0208,PRJ-003,Central Park Tower,Owner,Documentation,Loan documentation,Documentation inquiry: loan documentation.,,2026-10-01,In Progress,Web Form,Customer Care,Neutral
+CASE-0209,PRJ-006,Northgate Commons,Resident,Documentation,Document status,Documentation inquiry: document status.,4,2026-09-09,Open,Call Center,Billing Support,Neutral
+CASE-0210,PRJ-008,Ridgeview District,Buyer,Documentation,Loan documentation,Documentation inquiry: loan documentation.,12,2026-09-09,Open,Web Form,Customer Care,Neutral
+CASE-0211,PRJ-004,Harborview Residences,Resident,Documentation,Title / deed question,Documentation inquiry: title / deed question.,17,2026-09-16,Open,Web Form,Customer Care,Neutral
+CASE-0212,PRJ-004,Harborview Residences,Owner,Documentation,Title / deed question,Documentation inquiry: title / deed question.,2,2026-09-11,In Progress,Web Form,Turnover,Negative
+CASE-0213,PRJ-005,Riverfront District Residences,Resident,Parking,Access,Parking inquiry: access.,7,2026-09-03,Resolved,Web Form,Turnover,Neutral
+CASE-0214,PRJ-002,South Coast Residences,Buyer,Parking,Slot assignment,Parking inquiry: slot assignment.,,2026-08-21,In Progress,Chat,Customer Care,Negative
+CASE-0215,PRJ-006,Northgate Commons,Resident,Parking,Slot assignment,Parking inquiry: slot assignment.,22,2026-08-29,Resolved,Property Desk,Property Management,Neutral
+CASE-0216,PRJ-005,Riverfront District Residences,Owner,Parking,Slot assignment,Parking inquiry: slot assignment.,25,2026-09-06,Resolved,Property Desk,Property Management,Neutral
+CASE-0217,PRJ-006,Northgate Commons,Buyer,Parking,Pricing,Parking inquiry: pricing.,13,2026-09-06,Resolved,Property Desk,Turnover,Negative
+CASE-0218,PRJ-002,South Coast Residences,Resident,Parking,Pricing,Parking inquiry: pricing.,2,2026-08-09,In Progress,Call Center,Billing Support,Neutral
+CASE-0219,PRJ-007,Seaside Grove,Buyer,Parking,Access,Parking inquiry: access.,,2026-08-11,Resolved,Chat,Customer Care,Negative
+CASE-0220,PRJ-003,Central Park Tower,Owner,Parking,Availability,Parking inquiry: availability.,,2026-08-09,Open,Chat,Billing Support,Negative
+CASE-0221,PRJ-002,South Coast Residences,Buyer,Parking,Availability,Parking inquiry: availability.,7,2026-08-27,Resolved,Email,Customer Care,Negative
+CASE-0222,PRJ-004,Harborview Residences,Owner,Parking,Slot assignment,Parking inquiry: slot assignment.,20,2026-08-30,Resolved,Chat,Billing Support,Neutral
+CASE-0223,PRJ-004,Harborview Residences,Buyer,Parking,Availability,Parking inquiry: availability.,25,2026-08-19,Resolved,Web Form,Customer Care,Neutral
+CASE-0224,PRJ-003,Central Park Tower,Resident,Parking,Access,Parking inquiry: access.,5,2026-08-27,In Progress,Chat,Billing Support,Neutral
+CASE-0225,PRJ-006,Northgate Commons,Resident,Parking,Pricing,Parking inquiry: pricing.,19,2026-08-22,Resolved,Property Desk,Turnover,Neutral
+CASE-0226,PRJ-002,South Coast Residences,Owner,Parking,Access,Parking inquiry: access.,,2026-08-31,Resolved,Call Center,Billing Support,Neutral
+CASE-0227,PRJ-006,Northgate Commons,Buyer,Parking,Access,Parking inquiry: access.,,2026-08-20,In Progress,Chat,Billing Support,Negative
+CASE-0228,PRJ-006,Northgate Commons,Owner,Parking,Availability,Parking inquiry: availability.,,2026-08-21,In Progress,Web Form,Turnover,Positive
+CASE-0229,PRJ-005,Riverfront District Residences,Resident,Parking,Availability,Parking inquiry: availability.,24,2026-08-08,In Progress,Chat,Property Management,Negative
+CASE-0230,PRJ-004,Harborview Residences,Buyer,Parking,Availability,Parking inquiry: availability.,,2026-08-16,Resolved,Web Form,Billing Support,Positive
+CASE-0231,PRJ-001,Astra Heights Tower 2,Buyer,Parking,Availability,Parking inquiry: availability.,,2026-08-21,Resolved,Property Desk,Billing Support,Negative
+CASE-0232,PRJ-003,Central Park Tower,Resident,Parking,Slot assignment,Parking inquiry: slot assignment.,,2026-09-05,Resolved,Call Center,Customer Care,Neutral
+CASE-0233,PRJ-004,Harborview Residences,Owner,Parking,Slot assignment,Parking inquiry: slot assignment.,15,2026-08-27,Resolved,Property Desk,Turnover,Negative
+CASE-0234,PRJ-007,Seaside Grove,Buyer,Parking,Access,Parking inquiry: access.,6,2026-08-30,Resolved,Chat,Turnover,Negative
+CASE-0235,PRJ-006,Northgate Commons,Buyer,Parking,Pricing,Parking inquiry: pricing.,,2026-08-27,Resolved,Chat,Property Management,Positive
+CASE-0236,PRJ-007,Seaside Grove,Buyer,Parking,Access,Parking inquiry: access.,11,2026-08-20,Resolved,Property Desk,Customer Care,Negative
+CASE-0237,PRJ-005,Riverfront District Residences,Buyer,Parking,Slot assignment,Parking inquiry: slot assignment.,7,2026-08-15,Resolved,Web Form,Turnover,Negative
+CASE-0238,PRJ-007,Seaside Grove,Owner,Parking,Slot assignment,Parking inquiry: slot assignment.,10,2026-08-13,In Progress,Call Center,Customer Care,Negative
+CASE-0239,PRJ-006,Northgate Commons,Owner,Parking,Slot assignment,Parking inquiry: slot assignment.,11,2026-09-01,Resolved,Call Center,Turnover,Negative
+CASE-0240,PRJ-003,Central Park Tower,Owner,Parking,Availability,Parking inquiry: availability.,24,2026-10-06,Resolved,Chat,Billing Support,Negative
+CASE-0241,PRJ-003,Central Park Tower,Owner,Parking,Access,Parking inquiry: access.,6,2026-09-09,In Progress,Email,Billing Support,Negative
+CASE-0242,PRJ-007,Seaside Grove,Resident,Parking,Availability,Parking inquiry: availability.,19,2026-09-29,In Progress,Call Center,Property Management,Neutral
+CASE-0243,PRJ-004,Harborview Residences,Owner,Parking,Pricing,Parking inquiry: pricing.,22,2026-09-28,Resolved,Call Center,Turnover,Neutral
+CASE-0244,PRJ-006,Northgate Commons,Buyer,Parking,Pricing,Parking inquiry: pricing.,,2026-09-29,In Progress,Web Form,Customer Care,Neutral
+CASE-0245,PRJ-001,Astra Heights Tower 2,Owner,Parking,Slot assignment,Parking inquiry: slot assignment.,3,2026-09-11,Resolved,Email,Customer Care,Neutral
+CASE-0246,PRJ-002,South Coast Residences,Resident,Parking,Access,Parking inquiry: access.,17,2026-09-11,Resolved,Web Form,Turnover,Neutral
+CASE-0247,PRJ-002,South Coast Residences,Buyer,Parking,Access,Parking inquiry: access.,18,2026-10-03,Resolved,Property Desk,Customer Care,Negative
+CASE-0248,PRJ-003,Central Park Tower,Buyer,Parking,Availability,Parking inquiry: availability.,19,2026-09-26,In Progress,Email,Turnover,Negative
+CASE-0249,PRJ-003,Central Park Tower,Owner,Parking,Pricing,Parking inquiry: pricing.,,2026-09-15,Resolved,Email,Customer Care,Negative
+CASE-0250,PRJ-006,Northgate Commons,Resident,Parking,Availability,Parking inquiry: availability.,3,2026-09-27,In Progress,Email,Turnover,Negative
+CASE-0251,PRJ-002,South Coast Residences,Owner,Parking,Pricing,Parking inquiry: pricing.,10,2026-09-30,Open,Email,Turnover,Neutral
+CASE-0252,PRJ-004,Harborview Residences,Buyer,Parking,Slot assignment,Parking inquiry: slot assignment.,21,2026-10-06,Resolved,Chat,Turnover,Positive
+CASE-0253,PRJ-008,Ridgeview District,Owner,Parking,Availability,Parking inquiry: availability.,24,2026-09-10,Open,Email,Billing Support,Neutral
+CASE-0254,PRJ-005,Riverfront District Residences,Owner,Parking,Slot assignment,Parking inquiry: slot assignment.,23,2026-09-11,Resolved,Call Center,Turnover,Negative
+CASE-0255,PRJ-007,Seaside Grove,Buyer,Parking,Availability,Parking inquiry: availability.,,2026-09-26,Open,Call Center,Property Management,Neutral
+CASE-0256,PRJ-001,Astra Heights Tower 2,Resident,Parking,Pricing,Parking inquiry: pricing.,17,2026-09-24,In Progress,Web Form,Customer Care,Positive
+CASE-0257,PRJ-003,Central Park Tower,Buyer,Parking,Access,Parking inquiry: access.,20,2026-09-12,In Progress,Web Form,Customer Care,Negative
+CASE-0258,PRJ-006,Northgate Commons,Resident,Parking,Pricing,Parking inquiry: pricing.,25,2026-09-17,In Progress,Property Desk,Customer Care,Neutral
+CASE-0259,PRJ-003,Central Park Tower,Owner,Parking,Access,Parking inquiry: access.,13,2026-09-26,Resolved,Call Center,Turnover,Positive
+CASE-0260,PRJ-005,Riverfront District Residences,Owner,Parking,Access,Parking inquiry: access.,,2026-10-04,Resolved,Property Desk,Billing Support,Negative
+CASE-0261,PRJ-003,Central Park Tower,Owner,Parking,Access,Parking inquiry: access.,3,2026-09-10,In Progress,Web Form,Turnover,Neutral
+CASE-0262,PRJ-002,South Coast Residences,Owner,Parking,Pricing,Parking inquiry: pricing.,18,2026-09-19,Open,Call Center,Turnover,Neutral
+CASE-0263,PRJ-005,Riverfront District Residences,Owner,Parking,Slot assignment,Parking inquiry: slot assignment.,4,2026-10-03,Resolved,Chat,Billing Support,Neutral
+CASE-0264,PRJ-005,Riverfront District Residences,Resident,Parking,Access,Parking inquiry: access.,,2026-10-06,Resolved,Call Center,Billing Support,Neutral
+CASE-0265,PRJ-001,Astra Heights Tower 2,Buyer,Parking,Slot assignment,Parking inquiry: slot assignment.,11,2026-09-30,In Progress,Chat,Turnover,Neutral
+CASE-0266,PRJ-006,Northgate Commons,Resident,Parking,Pricing,Parking inquiry: pricing.,,2026-09-19,Resolved,Property Desk,Billing Support,Negative
+CASE-0267,PRJ-002,South Coast Residences,Owner,Parking,Availability,Parking inquiry: availability.,7,2026-09-07,In Progress,Web Form,Billing Support,Negative
+CASE-0268,PRJ-008,Ridgeview District,Resident,Parking,Pricing,Parking inquiry: pricing.,,2026-09-14,In Progress,Web Form,Billing Support,Negative
+CASE-0269,PRJ-002,South Coast Residences,Resident,Parking,Availability,Parking inquiry: availability.,8,2026-10-03,Open,Email,Turnover,Neutral
+CASE-0270,PRJ-002,South Coast Residences,Buyer,Parking,Slot assignment,Parking inquiry: slot assignment.,22,2026-10-03,Resolved,Call Center,Turnover,Negative
+CASE-0271,PRJ-001,Astra Heights Tower 2,Resident,Parking,Availability,Parking inquiry: availability.,8,2026-10-01,Resolved,Property Desk,Property Management,Negative
+CASE-0272,PRJ-005,Riverfront District Residences,Buyer,Parking,Slot assignment,Parking inquiry: slot assignment.,25,2026-09-29,Open,Call Center,Property Management,Negative
+CASE-0273,PRJ-005,Riverfront District Residences,Owner,Parking,Pricing,Parking inquiry: pricing.,10,2026-09-22,Open,Chat,Customer Care,Negative
+CASE-0274,PRJ-007,Seaside Grove,Buyer,Parking,Pricing,Parking inquiry: pricing.,21,2026-10-03,Resolved,Email,Turnover,Neutral
+CASE-0275,PRJ-006,Northgate Commons,Resident,Parking,Pricing,Parking inquiry: pricing.,25,2026-10-06,Resolved,Email,Property Management,Neutral
+CASE-0276,PRJ-002,South Coast Residences,Owner,Unit Defects,Paint / finishing,Paint / finishing reported during post-turnover service request.,22,2026-09-03,Resolved,Call Center,Customer Care,Neutral
+CASE-0277,PRJ-003,Central Park Tower,Resident,Unit Defects,Water seepage / moisture,Water seepage / moisture reported during post-turnover service request.,13,2026-09-03,Open,Call Center,Turnover,Neutral
+CASE-0278,PRJ-005,Riverfront District Residences,Resident,Unit Defects,Door alignment,Door alignment reported during post-turnover service request.,15,2026-08-13,Resolved,Email,Turnover,Negative
+CASE-0279,PRJ-006,Northgate Commons,Owner,Unit Defects,Door alignment,Door alignment reported during post-turnover service request.,3,2026-08-21,Resolved,Call Center,Billing Support,Negative
+CASE-0280,PRJ-003,Central Park Tower,Owner,Unit Defects,Water seepage / moisture,Water seepage / moisture reported during post-turnover service request.,11,2026-08-20,In Progress,Email,Customer Care,Neutral
+CASE-0281,PRJ-005,Riverfront District Residences,Buyer,Unit Defects,Paint / finishing,Paint / finishing reported during post-turnover service request.,25,2026-08-13,In Progress,Web Form,Billing Support,Neutral
+CASE-0282,PRJ-003,Central Park Tower,Buyer,Unit Defects,Water seepage / moisture,Water seepage / moisture reported during post-turnover service request.,13,2026-08-18,Resolved,Web Form,Billing Support,Negative
+CASE-0283,PRJ-004,Harborview Residences,Owner,Unit Defects,Door alignment,Door alignment reported during post-turnover service request.,15,2026-08-26,In Progress,Call Center,Customer Care,Negative
+CASE-0284,PRJ-003,Central Park Tower,Buyer,Unit Defects,Water seepage / moisture,Water seepage / moisture reported during post-turnover service request.,11,2026-08-20,Resolved,Call Center,Turnover,Neutral
+CASE-0285,PRJ-003,Central Park Tower,Buyer,Unit Defects,Water seepage / moisture,Water seepage / moisture reported during post-turnover service request.,16,2026-08-26,Resolved,Web Form,Property Management,Neutral
+CASE-0286,PRJ-003,Central Park Tower,Resident,Unit Defects,Door alignment,Door alignment reported during post-turnover service request.,22,2026-08-21,Resolved,Chat,Property Management,Negative
+CASE-0287,PRJ-008,Ridgeview District,Owner,Unit Defects,Door alignment,Door alignment reported during post-turnover service request.,2,2026-08-15,Resolved,Property Desk,Customer Care,Negative
+CASE-0288,PRJ-004,Harborview Residences,Resident,Unit Defects,Electrical fixtures,Electrical fixtures reported during post-turnover service request.,4,2026-08-22,Resolved,Property Desk,Turnover,Negative
+CASE-0289,PRJ-003,Central Park Tower,Buyer,Unit Defects,Water seepage / moisture,Water seepage / moisture reported during post-turnover service request.,12,2026-08-21,Open,Email,Property Management,Negative
+CASE-0290,PRJ-004,Harborview Residences,Buyer,Unit Defects,Electrical fixtures,Electrical fixtures reported during post-turnover service request.,3,2026-08-25,Resolved,Call Center,Customer Care,Negative
+CASE-0291,PRJ-007,Seaside Grove,Resident,Unit Defects,Door alignment,Door alignment reported during post-turnover service request.,18,2026-08-25,In Progress,Call Center,Turnover,Negative
+CASE-0292,PRJ-007,Seaside Grove,Buyer,Unit Defects,Paint / finishing,Paint / finishing reported during post-turnover service request.,22,2026-08-17,Resolved,Email,Billing Support,Negative
+CASE-0293,PRJ-003,Central Park Tower,Owner,Unit Defects,Water seepage / moisture,Water seepage / moisture reported during post-turnover service request.,12,2026-08-12,Resolved,Chat,Property Management,Neutral
+CASE-0294,PRJ-003,Central Park Tower,Owner,Unit Defects,Water seepage / moisture,Water seepage / moisture reported during post-turnover service request.,16,2026-09-02,Resolved,Web Form,Billing Support,Neutral
+CASE-0295,PRJ-005,Riverfront District Residences,Owner,Unit Defects,Door alignment,Door alignment reported during post-turnover service request.,7,2026-08-21,Open,Email,Customer Care,Neutral
+CASE-0296,PRJ-008,Ridgeview District,Buyer,Unit Defects,Door alignment,Door alignment reported during post-turnover service request.,12,2026-08-26,In Progress,Web Form,Property Management,Positive
+CASE-0297,PRJ-005,Riverfront District Residences,Resident,Unit Defects,Door alignment,Door alignment reported during post-turnover service request.,25,2026-08-27,Resolved,Chat,Property Management,Negative
+CASE-0298,PRJ-006,Northgate Commons,Buyer,Unit Defects,Electrical fixtures,Electrical fixtures reported during post-turnover service request.,19,2026-09-03,In Progress,Chat,Property Management,Neutral
+CASE-0299,PRJ-006,Northgate Commons,Resident,Unit Defects,Electrical fixtures,Electrical fixtures reported during post-turnover service request.,22,2026-09-05,Resolved,Email,Customer Care,Neutral
+CASE-0300,PRJ-003,Central Park Tower,Resident,Unit Defects,Water seepage / moisture,Water seepage / moisture reported during post-turnover service request.,16,2026-09-04,Resolved,Email,Customer Care,Neutral
+CASE-0301,PRJ-007,Seaside Grove,Buyer,Unit Defects,Paint / finishing,Paint / finishing reported during post-turnover service request.,6,2026-08-27,Resolved,Property Desk,Turnover,Positive
+CASE-0302,PRJ-005,Riverfront District Residences,Owner,Unit Defects,Electrical fixtures,Electrical fixtures reported during post-turnover service request.,4,2026-08-09,Resolved,Chat,Billing Support,Negative
+CASE-0303,PRJ-003,Central Park Tower,Buyer,Unit Defects,Water seepage / moisture,Water seepage / moisture reported during post-turnover service request.,15,2026-08-30,Resolved,Property Desk,Property Management,Neutral
+CASE-0304,PRJ-006,Northgate Commons,Resident,Unit Defects,Door alignment,Door alignment reported during post-turnover service request.,10,2026-08-29,Resolved,Web Form,Property Management,Negative
+CASE-0305,PRJ-008,Ridgeview District,Resident,Unit Defects,Paint / finishing,Paint / finishing reported during post-turnover service request.,2,2026-08-20,Resolved,Call Center,Billing Support,Negative
+CASE-0306,PRJ-003,Central Park Tower,Owner,Unit Defects,Water seepage / moisture,Water seepage / moisture reported during post-turnover service request.,14,2026-08-29,In Progress,Email,Customer Care,Neutral
+CASE-0307,PRJ-006,Northgate Commons,Owner,Unit Defects,Paint / finishing,Paint / finishing reported during post-turnover service request.,11,2026-08-12,Open,Chat,Turnover,Negative
+CASE-0308,PRJ-006,Northgate Commons,Owner,Unit Defects,Door alignment,Door alignment reported during post-turnover service request.,21,2026-08-23,Resolved,Web Form,Billing Support,Negative
+CASE-0309,PRJ-003,Central Park Tower,Buyer,Unit Defects,Water seepage / moisture,Water seepage / moisture reported during post-turnover service request.,16,2026-08-09,Resolved,Web Form,Property Management,Neutral
+CASE-0310,PRJ-003,Central Park Tower,Buyer,Unit Defects,Water seepage / moisture,Water seepage / moisture reported during post-turnover service request.,11,2026-09-25,In Progress,Email,Property Management,Neutral
+CASE-0311,PRJ-003,Central Park Tower,Owner,Unit Defects,Door alignment,Door alignment reported during post-turnover service request.,20,2026-09-11,Open,Chat,Property Management,Negative
+CASE-0312,PRJ-003,Central Park Tower,Resident,Unit Defects,Water seepage / moisture,Water seepage / moisture reported during post-turnover service request.,14,2026-10-02,Resolved,Chat,Turnover,Positive
+CASE-0313,PRJ-003,Central Park Tower,Resident,Unit Defects,Water seepage / moisture,Water seepage / moisture reported during post-turnover service request.,11,2026-09-20,Open,Property Desk,Customer Care,Positive
+CASE-0314,PRJ-003,Central Park Tower,Buyer,Unit Defects,Water seepage / moisture,Water seepage / moisture reported during post-turnover service request.,14,2026-09-16,In Progress,Web Form,Customer Care,Neutral
+CASE-0315,PRJ-007,Seaside Grove,Owner,Unit Defects,Electrical fixtures,Electrical fixtures reported during post-turnover service request.,10,2026-09-14,Open,Chat,Property Management,Neutral
+CASE-0316,PRJ-007,Seaside Grove,Resident,Unit Defects,Electrical fixtures,Electrical fixtures reported during post-turnover service request.,16,2026-09-15,Open,Chat,Property Management,Neutral
+CASE-0317,PRJ-003,Central Park Tower,Owner,Unit Defects,Paint / finishing,Paint / finishing reported during post-turnover service request.,10,2026-09-27,Resolved,Web Form,Billing Support,Negative
+CASE-0318,PRJ-006,Northgate Commons,Buyer,Unit Defects,Electrical fixtures,Electrical fixtures reported during post-turnover service request.,2,2026-09-28,Resolved,Call Center,Property Management,Neutral
+CASE-0319,PRJ-008,Ridgeview District,Owner,Unit Defects,Electrical fixtures,Electrical fixtures reported during post-turnover service request.,3,2026-10-01,Resolved,Property Desk,Customer Care,Negative
+CASE-0320,PRJ-003,Central Park Tower,Owner,Unit Defects,Water seepage / moisture,Water seepage / moisture reported during post-turnover service request.,13,2026-09-09,Resolved,Chat,Property Management,Neutral
+CASE-0321,PRJ-001,Astra Heights Tower 2,Resident,Unit Defects,Water seepage / moisture,Water seepage / moisture reported during post-turnover service request.,10,2026-09-14,Resolved,Web Form,Customer Care,Negative
+CASE-0322,PRJ-001,Astra Heights Tower 2,Resident,Unit Defects,Electrical fixtures,Electrical fixtures reported during post-turnover service request.,23,2026-09-27,Resolved,Call Center,Property Management,Neutral
+CASE-0323,PRJ-006,Northgate Commons,Resident,Unit Defects,Electrical fixtures,Electrical fixtures reported during post-turnover service request.,10,2026-09-23,Open,Chat,Property Management,Negative
+CASE-0324,PRJ-001,Astra Heights Tower 2,Owner,Unit Defects,Paint / finishing,Paint / finishing reported during post-turnover service request.,23,2026-09-24,In Progress,Chat,Turnover,Neutral
+CASE-0325,PRJ-001,Astra Heights Tower 2,Resident,Unit Defects,Door alignment,Door alignment reported during post-turnover service request.,19,2026-09-27,In Progress,Email,Customer Care,Neutral
+CASE-0326,PRJ-001,Astra Heights Tower 2,Buyer,Unit Defects,Paint / finishing,Paint / finishing reported during post-turnover service request.,14,2026-09-21,Resolved,Chat,Property Management,Neutral
+CASE-0327,PRJ-002,South Coast Residences,Buyer,Unit Defects,Water seepage / moisture,Water seepage / moisture reported during post-turnover service request.,18,2026-09-28,Resolved,Email,Customer Care,Negative
+CASE-0328,PRJ-004,Harborview Residences,Buyer,Unit Defects,Door alignment,Door alignment reported during post-turnover service request.,8,2026-09-16,In Progress,Chat,Billing Support,Negative
+CASE-0329,PRJ-004,Harborview Residences,Resident,Unit Defects,Water seepage / moisture,Water seepage / moisture reported during post-turnover service request.,20,2026-10-05,Resolved,Call Center,Property Management,Negative
+CASE-0330,PRJ-005,Riverfront District Residences,Resident,Unit Defects,Door alignment,Door alignment reported during post-turnover service request.,7,2026-09-19,In Progress,Email,Turnover,Negative
+CASE-0331,PRJ-005,Riverfront District Residences,Buyer,Unit Defects,Paint / finishing,Paint / finishing reported during post-turnover service request.,16,2026-09-25,Resolved,Web Form,Customer Care,Negative
+CASE-0332,PRJ-005,Riverfront District Residences,Buyer,Unit Defects,Water seepage / moisture,Water seepage / moisture reported during post-turnover service request.,3,2026-09-27,In Progress,Web Form,Customer Care,Negative
+CASE-0333,PRJ-007,Seaside Grove,Buyer,Unit Defects,Door alignment,Door alignment reported during post-turnover service request.,23,2026-09-25,Resolved,Email,Property Management,Neutral
+CASE-0334,PRJ-006,Northgate Commons,Owner,Unit Defects,Water seepage / moisture,Water seepage / moisture reported during post-turnover service request.,14,2026-09-30,Resolved,Property Desk,Customer Care,Neutral
+CASE-0335,PRJ-008,Ridgeview District,Buyer,Billing,Statement clarification,Billing inquiry: statement clarification.,13,2026-08-22,Resolved,Property Desk,Customer Care,Neutral
+CASE-0336,PRJ-008,Ridgeview District,Resident,Billing,Statement clarification,Billing inquiry: statement clarification.,12,2026-08-22,In Progress,Property Desk,Property Management,Negative
+CASE-0337,PRJ-003,Central Park Tower,Resident,Billing,Statement clarification,Billing inquiry: statement clarification.,8,2026-08-16,In Progress,Property Desk,Billing Support,Negative
+CASE-0338,PRJ-004,Harborview Residences,Owner,Billing,Statement clarification,Billing inquiry: statement clarification.,,2026-09-02,Open,Web Form,Property Management,Neutral
+CASE-0339,PRJ-005,Riverfront District Residences,Owner,Billing,Charge inquiry,Billing inquiry: charge inquiry.,20,2026-09-06,Resolved,Call Center,Property Management,Negative
+CASE-0340,PRJ-007,Seaside Grove,Resident,Billing,Statement clarification,Billing inquiry: statement clarification.,20,2026-08-13,In Progress,Call Center,Customer Care,Neutral
+CASE-0341,PRJ-004,Harborview Residences,Resident,Billing,Receipt / OR request,Billing inquiry: receipt / or request.,8,2026-08-11,Resolved,Call Center,Billing Support,Negative
+CASE-0342,PRJ-002,South Coast Residences,Buyer,Billing,Statement clarification,Billing inquiry: statement clarification.,4,2026-09-02,Resolved,Property Desk,Billing Support,Neutral
+CASE-0343,PRJ-002,South Coast Residences,Buyer,Billing,Charge inquiry,Billing inquiry: charge inquiry.,7,2026-09-05,In Progress,Web Form,Property Management,Neutral
+CASE-0344,PRJ-006,Northgate Commons,Resident,Billing,Statement clarification,Billing inquiry: statement clarification.,,2026-08-19,In Progress,Property Desk,Billing Support,Neutral
+CASE-0345,PRJ-003,Central Park Tower,Owner,Billing,Statement clarification,Billing inquiry: statement clarification.,18,2026-08-16,In Progress,Chat,Billing Support,Neutral
+CASE-0346,PRJ-001,Astra Heights Tower 2,Resident,Billing,Charge inquiry,Billing inquiry: charge inquiry.,2,2026-08-19,Resolved,Property Desk,Billing Support,Negative
+CASE-0347,PRJ-002,South Coast Residences,Owner,Billing,Payment posting,Billing inquiry: payment posting.,18,2026-08-23,Resolved,Call Center,Billing Support,Negative
+CASE-0348,PRJ-004,Harborview Residences,Owner,Billing,Charge inquiry,Billing inquiry: charge inquiry.,,2026-08-27,Resolved,Property Desk,Property Management,Negative
+CASE-0349,PRJ-004,Harborview Residences,Owner,Billing,Charge inquiry,Billing inquiry: charge inquiry.,2,2026-08-14,Open,Call Center,Property Management,Neutral
+CASE-0350,PRJ-002,South Coast Residences,Resident,Billing,Payment posting,Billing inquiry: payment posting.,4,2026-08-29,Resolved,Web Form,Turnover,Negative
+CASE-0351,PRJ-002,South Coast Residences,Owner,Billing,Statement clarification,Billing inquiry: statement clarification.,16,2026-08-18,In Progress,Call Center,Customer Care,Neutral
+CASE-0352,PRJ-007,Seaside Grove,Resident,Billing,Payment posting,Billing inquiry: payment posting.,5,2026-08-27,Resolved,Call Center,Property Management,Negative
+CASE-0353,PRJ-006,Northgate Commons,Buyer,Billing,Charge inquiry,Billing inquiry: charge inquiry.,,2026-08-25,Resolved,Chat,Turnover,Negative
+CASE-0354,PRJ-005,Riverfront District Residences,Resident,Billing,Payment posting,Billing inquiry: payment posting.,5,2026-08-12,Open,Call Center,Property Management,Negative
+CASE-0355,PRJ-007,Seaside Grove,Resident,Billing,Charge inquiry,Billing inquiry: charge inquiry.,,2026-08-12,Resolved,Web Form,Billing Support,Negative
+CASE-0356,PRJ-003,Central Park Tower,Resident,Billing,Charge inquiry,Billing inquiry: charge inquiry.,,2026-09-06,Resolved,Call Center,Customer Care,Negative
+CASE-0357,PRJ-001,Astra Heights Tower 2,Owner,Billing,Charge inquiry,Billing inquiry: charge inquiry.,13,2026-09-02,In Progress,Web Form,Billing Support,Negative
+CASE-0358,PRJ-006,Northgate Commons,Buyer,Billing,Payment posting,Billing inquiry: payment posting.,,2026-09-28,Resolved,Call Center,Billing Support,Neutral
+CASE-0359,PRJ-003,Central Park Tower,Resident,Billing,Statement clarification,Billing inquiry: statement clarification.,5,2026-09-10,Open,Web Form,Customer Care,Negative
+CASE-0360,PRJ-008,Ridgeview District,Buyer,Billing,Receipt / OR request,Billing inquiry: receipt / or request.,3,2026-10-01,Resolved,Property Desk,Property Management,Negative
+CASE-0361,PRJ-007,Seaside Grove,Buyer,Billing,Payment posting,Billing inquiry: payment posting.,9,2026-09-08,Resolved,Call Center,Turnover,Negative
+CASE-0362,PRJ-003,Central Park Tower,Owner,Billing,Receipt / OR request,Billing inquiry: receipt / or request.,3,2026-09-27,Resolved,Web Form,Customer Care,Negative
+CASE-0363,PRJ-007,Seaside Grove,Buyer,Billing,Payment posting,Billing inquiry: payment posting.,,2026-10-05,Open,Call Center,Property Management,Negative
+CASE-0364,PRJ-007,Seaside Grove,Owner,Billing,Payment posting,Billing inquiry: payment posting.,9,2026-09-30,In Progress,Email,Customer Care,Negative
+CASE-0365,PRJ-001,Astra Heights Tower 2,Resident,Billing,Payment posting,Billing inquiry: payment posting.,,2026-09-10,In Progress,Call Center,Property Management,Neutral
+CASE-0366,PRJ-004,Harborview Residences,Buyer,Billing,Payment posting,Billing inquiry: payment posting.,,2026-09-19,In Progress,Chat,Property Management,Neutral
+CASE-0367,PRJ-003,Central Park Tower,Owner,Billing,Receipt / OR request,Billing inquiry: receipt / or request.,20,2026-09-27,Open,Web Form,Property Management,Neutral
+CASE-0368,PRJ-005,Riverfront District Residences,Owner,Billing,Receipt / OR request,Billing inquiry: receipt / or request.,,2026-09-13,Resolved,Email,Turnover,Neutral
+CASE-0369,PRJ-001,Astra Heights Tower 2,Resident,Billing,Payment posting,Billing inquiry: payment posting.,25,2026-09-15,In Progress,Web Form,Property Management,Neutral
+CASE-0370,PRJ-006,Northgate Commons,Owner,Billing,Receipt / OR request,Billing inquiry: receipt / or request.,7,2026-09-21,In Progress,Call Center,Property Management,Negative
+CASE-0371,PRJ-008,Ridgeview District,Resident,Billing,Receipt / OR request,Billing inquiry: receipt / or request.,22,2026-09-18,Open,Property Desk,Billing Support,Negative
+CASE-0372,PRJ-001,Astra Heights Tower 2,Resident,Billing,Charge inquiry,Billing inquiry: charge inquiry.,9,2026-09-13,Open,Chat,Customer Care,Neutral
+CASE-0373,PRJ-006,Northgate Commons,Buyer,Billing,Payment posting,Billing inquiry: payment posting.,16,2026-09-16,In Progress,Property Desk,Customer Care,Negative
+CASE-0374,PRJ-003,Central Park Tower,Owner,Billing,Charge inquiry,Billing inquiry: charge inquiry.,3,2026-09-29,Resolved,Property Desk,Property Management,Neutral
+CASE-0375,PRJ-002,South Coast Residences,Owner,Billing,Statement clarification,Billing inquiry: statement clarification.,18,2026-10-04,Open,Property Desk,Turnover,Neutral
+CASE-0376,PRJ-004,Harborview Residences,Resident,Billing,Payment posting,Billing inquiry: payment posting.,13,2026-09-22,Open,Web Form,Turnover,Neutral
+CASE-0377,PRJ-006,Northgate Commons,Resident,Billing,Payment posting,Billing inquiry: payment posting.,15,2026-09-17,Resolved,Property Desk,Turnover,Neutral
+CASE-0378,PRJ-003,Central Park Tower,Owner,Billing,Receipt / OR request,Billing inquiry: receipt / or request.,6,2026-09-13,Resolved,Call Center,Customer Care,Negative
+CASE-0379,PRJ-002,South Coast Residences,Owner,Billing,Receipt / OR request,Billing inquiry: receipt / or request.,2,2026-09-08,Resolved,Chat,Billing Support,Neutral
+CASE-0380,PRJ-004,Harborview Residences,Resident,Billing,Charge inquiry,Billing inquiry: charge inquiry.,22,2026-09-09,Resolved,Property Desk,Turnover,Negative
+CASE-0381,PRJ-007,Seaside Grove,Owner,Billing,Receipt / OR request,Billing inquiry: receipt / or request.,,2026-10-02,In Progress,Chat,Property Management,Neutral
+CASE-0382,PRJ-005,Riverfront District Residences,Resident,Amenities,Pool / gym availability,Amenities inquiry: pool / gym availability.,14,2026-08-16,Resolved,Email,Billing Support,Negative
+CASE-0383,PRJ-002,South Coast Residences,Resident,Amenities,Opening schedule,Amenities inquiry: opening schedule.,7,2026-08-17,Resolved,Call Center,Customer Care,Neutral
+CASE-0384,PRJ-002,South Coast Residences,Owner,Amenities,Access rules,Amenities inquiry: access rules.,8,2026-09-02,Resolved,Chat,Customer Care,Negative
+CASE-0385,PRJ-006,Northgate Commons,Resident,Amenities,Opening schedule,Amenities inquiry: opening schedule.,,2026-08-10,Resolved,Web Form,Turnover,Negative
+CASE-0386,PRJ-004,Harborview Residences,Owner,Amenities,Access rules,Amenities inquiry: access rules.,,2026-08-11,In Progress,Web Form,Billing Support,Neutral
+CASE-0387,PRJ-003,Central Park Tower,Owner,Amenities,Opening schedule,Amenities inquiry: opening schedule.,,2026-08-16,Resolved,Call Center,Turnover,Negative
+CASE-0388,PRJ-003,Central Park Tower,Owner,Amenities,Pool / gym availability,Amenities inquiry: pool / gym availability.,21,2026-08-22,Resolved,Property Desk,Billing Support,Negative
+CASE-0389,PRJ-002,South Coast Residences,Buyer,Amenities,Pool / gym availability,Amenities inquiry: pool / gym availability.,,2026-09-05,Open,Call Center,Billing Support,Negative
+CASE-0390,PRJ-006,Northgate Commons,Buyer,Amenities,Guest policy,Amenities inquiry: guest policy.,22,2026-09-04,In Progress,Property Desk,Customer Care,Negative
+CASE-0391,PRJ-002,South Coast Residences,Owner,Amenities,Opening schedule,Amenities inquiry: opening schedule.,,2026-08-17,Resolved,Property Desk,Property Management,Negative
+CASE-0392,PRJ-004,Harborview Residences,Buyer,Amenities,Access rules,Amenities inquiry: access rules.,,2026-08-12,In Progress,Email,Turnover,Neutral
+CASE-0393,PRJ-003,Central Park Tower,Owner,Amenities,Opening schedule,Amenities inquiry: opening schedule.,21,2026-09-01,In Progress,Web Form,Billing Support,Positive
+CASE-0394,PRJ-006,Northgate Commons,Buyer,Amenities,Access rules,Amenities inquiry: access rules.,,2026-08-24,Resolved,Chat,Customer Care,Neutral
+CASE-0395,PRJ-003,Central Park Tower,Resident,Amenities,Access rules,Amenities inquiry: access rules.,,2026-08-26,Resolved,Email,Property Management,Negative
+CASE-0396,PRJ-008,Ridgeview District,Resident,Amenities,Pool / gym availability,Amenities inquiry: pool / gym availability.,8,2026-08-13,Resolved,Call Center,Property Management,Negative
+CASE-0397,PRJ-008,Ridgeview District,Buyer,Amenities,Guest policy,Amenities inquiry: guest policy.,11,2026-08-28,Resolved,Call Center,Customer Care,Neutral
+CASE-0398,PRJ-003,Central Park Tower,Resident,Amenities,Pool / gym availability,Amenities inquiry: pool / gym availability.,25,2026-08-08,In Progress,Web Form,Customer Care,Neutral
+CASE-0399,PRJ-006,Northgate Commons,Resident,Amenities,Access rules,Amenities inquiry: access rules.,,2026-08-30,Resolved,Web Form,Property Management,Negative
+CASE-0400,PRJ-001,Astra Heights Tower 2,Owner,Amenities,Guest policy,Amenities inquiry: guest policy.,23,2026-10-06,Resolved,Call Center,Turnover,Negative
+CASE-0401,PRJ-003,Central Park Tower,Buyer,Amenities,Guest policy,Amenities inquiry: guest policy.,14,2026-09-25,Open,Call Center,Property Management,Negative
+CASE-0402,PRJ-003,Central Park Tower,Resident,Amenities,Access rules,Amenities inquiry: access rules.,10,2026-09-08,Resolved,Web Form,Billing Support,Neutral
+CASE-0403,PRJ-007,Seaside Grove,Buyer,Amenities,Access rules,Amenities inquiry: access rules.,,2026-10-04,Resolved,Call Center,Billing Support,Neutral
+CASE-0404,PRJ-005,Riverfront District Residences,Resident,Amenities,Pool / gym availability,Amenities inquiry: pool / gym availability.,16,2026-09-26,Open,Property Desk,Billing Support,Neutral
+CASE-0405,PRJ-002,South Coast Residences,Resident,Amenities,Access rules,Amenities inquiry: access rules.,16,2026-09-13,Resolved,Chat,Billing Support,Negative
+CASE-0406,PRJ-003,Central Park Tower,Buyer,Amenities,Guest policy,Amenities inquiry: guest policy.,,2026-09-28,Resolved,Web Form,Property Management,Negative
+CASE-0407,PRJ-004,Harborview Residences,Resident,Amenities,Pool / gym availability,Amenities inquiry: pool / gym availability.,,2026-09-08,Open,Call Center,Turnover,Negative
+CASE-0408,PRJ-004,Harborview Residences,Resident,Amenities,Opening schedule,Amenities inquiry: opening schedule.,7,2026-10-06,Open,Email,Property Management,Neutral
+CASE-0409,PRJ-006,Northgate Commons,Owner,Amenities,Opening schedule,Amenities inquiry: opening schedule.,7,2026-09-10,Resolved,Chat,Turnover,Positive
+CASE-0410,PRJ-006,Northgate Commons,Owner,Amenities,Opening schedule,Amenities inquiry: opening schedule.,2,2026-09-10,Resolved,Chat,Property Management,Neutral
+CASE-0411,PRJ-001,Astra Heights Tower 2,Resident,Amenities,Guest policy,Amenities inquiry: guest policy.,11,2026-09-16,Open,Call Center,Customer Care,Positive
+CASE-0412,PRJ-003,Central Park Tower,Resident,Amenities,Guest policy,Amenities inquiry: guest policy.,15,2026-09-19,Resolved,Web Form,Customer Care,Neutral
+CASE-0413,PRJ-008,Ridgeview District,Owner,Amenities,Opening schedule,Amenities inquiry: opening schedule.,23,2026-09-16,Resolved,Property Desk,Property Management,Negative
+CASE-0414,PRJ-008,Ridgeview District,Resident,Amenities,Access rules,Amenities inquiry: access rules.,9,2026-09-22,Open,Web Form,Billing Support,Negative
+CASE-0415,PRJ-008,Ridgeview District,Resident,Amenities,Guest policy,Amenities inquiry: guest policy.,,2026-09-10,Open,Call Center,Billing Support,Negative
+CASE-0416,PRJ-004,Harborview Residences,Resident,Amenities,Opening schedule,Amenities inquiry: opening schedule.,13,2026-09-16,Resolved,Email,Customer Care,Negative
+CASE-0417,PRJ-007,Seaside Grove,Resident,Amenities,Opening schedule,Amenities inquiry: opening schedule.,21,2026-09-24,In Progress,Call Center,Billing Support,Negative
+CASE-0418,PRJ-006,Northgate Commons,Buyer,Amenities,Guest policy,Amenities inquiry: guest policy.,18,2026-09-19,Resolved,Web Form,Customer Care,Neutral
+CASE-0419,PRJ-005,Riverfront District Residences,Resident,Amenities,Access rules,Amenities inquiry: access rules.,23,2026-10-06,Resolved,Email,Customer Care,Neutral
+CASE-0420,PRJ-003,Central Park Tower,Owner,Amenities,Pool / gym availability,Amenities inquiry: pool / gym availability.,15,2026-09-20,Resolved,Property Desk,Property Management,Neutral
+CASE-0421,PRJ-004,Harborview Residences,Resident,Amenities,Pool / gym availability,Amenities inquiry: pool / gym availability.,,2026-09-09,Open,Email,Turnover,Neutral
+CASE-0422,PRJ-006,Northgate Commons,Owner,Amenities,Opening schedule,Amenities inquiry: opening schedule.,17,2026-09-25,Resolved,Chat,Turnover,Negative
+CASE-0423,PRJ-001,Astra Heights Tower 2,Resident,Amenities,Pool / gym availability,Amenities inquiry: pool / gym availability.,,2026-09-17,Resolved,Call Center,Property Management,Negative
+CASE-0424,PRJ-008,Ridgeview District,Resident,Amenities,Opening schedule,Amenities inquiry: opening schedule.,10,2026-10-06,Resolved,Web Form,Customer Care,Negative
+CASE-0425,PRJ-003,Central Park Tower,Owner,Amenities,Guest policy,Amenities inquiry: guest policy.,9,2026-09-23,Resolved,Property Desk,Property Management,Positive
+CASE-0426,PRJ-008,Ridgeview District,Resident,Amenities,Access rules,Amenities inquiry: access rules.,5,2026-10-05,In Progress,Call Center,Customer Care,Neutral
+CASE-0427,PRJ-002,South Coast Residences,Buyer,Amenities,Guest policy,Amenities inquiry: guest policy.,,2026-09-25,Open,Email,Customer Care,Negative
