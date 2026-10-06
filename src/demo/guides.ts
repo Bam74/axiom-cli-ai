@@ -52,12 +52,12 @@ export const GUIDES: Record<GuideModule, GuideScript> = {
     title: 'Sales & Buyer Intelligence',
     steps: [
       {
-        click: 'Open Maria Santos.',
-        notice: 'AI has access to the buyer context and previous interactions.',
+        click: 'Open Maria Santos on the pipeline.',
+        notice: 'This is the salesperson’s record: owner, last activity, and the next action. Sales management is the same book from the manager’s side.',
       },
       {
         click: 'Click Prepare for Buyer Conversation.',
-        notice: 'This is a context-aware briefing, not a generic sales script.',
+        notice: 'The brief is prepared for the person who owns the lead.',
       },
       {
         click: 'Click Find Suitable Properties.',

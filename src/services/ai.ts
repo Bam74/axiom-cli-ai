@@ -58,9 +58,12 @@ export interface ExecutiveUpdate extends GeneratedBase {
 }
 
 export interface BuyerBrief extends GeneratedBase {
+  openWith: string
+  alreadySaid: string[]
   matters: string[]
   questions: string[]
   talkingPoints: string[]
+  doNotPromise: string[]
 }
 
 export interface PropertyMatch {
@@ -344,12 +347,19 @@ export function buildBuyerBrief(data: Dataset, leadId: string): BuyerBrief {
   const talkingPoints = [
     `Budget discussed: ${formatPesoMillions(lead.Budget_Min_PHP_M)}–${formatPesoMillions(lead.Budget_Max_PHP_M)}, ${lead.Unit_Preference}, ${lead.City_Preference}, purpose ${lead.Purpose}.`,
     ...faqs.slice(0, 3).map((faq) => faq.Approved_Answer),
-    'Do not quote a discount, incentive, or financial return. Reconfirm price, inventory, parking, and turnover before any commitment.',
   ]
+  const latest = interactions.at(-1)
   return {
+    openWith: latest?.Interaction_Text ?? lead.Needs_Summary,
+    alreadySaid: interactions.slice(0, -1).map((item) => item.Interaction_Text),
     matters,
     questions,
     talkingPoints,
+    doNotPromise: [
+      'Do not quote a discount, incentive, or financial return.',
+      'Do not promise that a unit is available until inventory is reconfirmed.',
+      'Quote turnover only from the approved inventory record.',
+    ],
     sources: [
       {
         id: `lead-${lead.Lead_ID}`,
@@ -369,8 +379,8 @@ export function buildBuyerBrief(data: Dataset, leadId: string): BuyerBrief {
     ],
     tasks: ['Extract', 'Analyze'],
     boundary: 'Use the buyer record and approved answers. Do not invent preferences that are not in the interactions.',
-    reviewerRole: 'Sales Manager',
-    reviewerName: interactions[0]?.Agent ?? 'Sales team',
+    reviewerRole: 'Account owner',
+    reviewerName: interactions.at(-1)?.Agent ?? 'Sales team',
   }
 }
 
@@ -397,7 +407,7 @@ export function buildFollowUp(data: Dataset, leadId: string): FollowUpDraft {
     'I have not included any discount or expected financial return. Price, availability, parking, and turnover should be reconfirmed before this note is sent or any commitment is made.',
     '',
     'Regards,',
-    interactions[0]?.Agent ?? 'Sales team',
+    interactions.at(-1)?.Agent ?? 'Sales team',
   ].join('\n')
   const faqs = data.faqs.filter((faq) => matches.some((match) => match.unit.Project_ID === faq.Project_ID) && /inventory|parking|turnover/i.test(faq.Category))
   return {
@@ -423,8 +433,8 @@ export function buildFollowUp(data: Dataset, leadId: string): FollowUpDraft {
     ],
     tasks: ['Find', 'Draft'],
     boundary: 'Do not invent discounts, returns, or availability beyond the inventory record.',
-    reviewerRole: 'Sales Manager',
-    reviewerName: interactions[0]?.Agent ?? 'Sales team',
+    reviewerRole: 'Account owner',
+    reviewerName: interactions.at(-1)?.Agent ?? 'Sales team',
   }
 }
 
@@ -507,7 +517,7 @@ function salesPriority(signal: SalesSignal, rank: number): PriorityCard {
       signal.parkingShare != null ? `Parking accounts for ${signal.parkingShare}% of ${current.Month} lost-lead reasons.` : 'Lost-lead reasons are available for the latest month.',
     ],
     question: 'Is parking availability, communication, or another factor contributing to lower conversion?',
-    evidenceTo: `/sales/project/${signal.projectId}`,
+    evidenceTo: '/sales/management',
   }
 }
 

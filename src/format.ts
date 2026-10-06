@@ -41,6 +41,16 @@ export function leadName(lead: { First_Name: string; Last_Name: string }) {
   return `${lead.First_Name} ${lead.Last_Name}`
 }
 
+export function shortName(name: string) {
+  return name
+    .replace(' Tower 2', '')
+    .replace(' Tower', '')
+    .replace(' Residences', '')
+    .replace(' District', '')
+    .replace(' Commons', '')
+    .replace(' Grove', '')
+}
+
 export type StatusTone = 'good' | 'amber' | 'bad' | 'neutral'
 
 export function statusTone(status: string): StatusTone {

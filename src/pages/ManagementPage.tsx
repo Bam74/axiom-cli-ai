@@ -1,5 +1,8 @@
 import { useState } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
+import { GroupedBars } from '../components/charts.tsx'
+import { projectSnapshots, salesSignalFor, themeStats } from '../data/metrics.ts'
+import { formatNumber, shortName } from '../format.ts'
 import { MANAGEMENT_QUESTIONS, buildManagementAnswer, runStages } from '../services/ai.ts'
 import { useData } from '../state/data.tsx'
 import { useDemo } from '../state/demo.tsx'
@@ -12,6 +15,16 @@ export function ManagementPage() {
   const [stage, setStage] = useState('')
   const [error, setError] = useState(false)
   const answer = demo.state.managementQuestion ? demo.state.artifacts.management[demo.state.managementQuestion] : undefined
+  const salesRows = data.projects
+    .map((project) => salesSignalFor(data, project.Project_ID))
+    .filter((signal) => signal?.previous && signal.current)
+  const previousLabel = salesRows[0]?.previous ? monthLabel(salesRows[0].previous.Month) : 'Previous'
+  const currentLabel = salesRows[0]?.current ? monthLabel(salesRows[0].current.Month) : 'Current'
+  const inquiryChart = salesRows.map((signal) => ({
+    name: shortName(signal!.projectName),
+    [previousLabel]: signal!.previous!.Inquiries,
+    [currentLabel]: signal!.current!.Inquiries,
+  }))
 
   async function ask(questionId: string) {
     demo.selectQuestion(questionId)
@@ -35,12 +48,51 @@ export function ManagementPage() {
     <div>
       <PageIntro title="Management Intelligence" subtitle="Connect signals across projects, sales and customer experience." />
       <section className="grid gap-4 sm:grid-cols-2 xl:grid-cols-4">
-        <Summary label="Projects" value={String(data.projects.length)} />
-        <Summary label="Sales" value={data.leads.length.toLocaleString('en-US')} />
-        <Summary label="Customers" value={String(data.cases.length)} />
-        <Summary label="Business Signals" value="3" />
+        <Summary label="Projects" value={formatNumber(data.projects.length)} to="/projects" />
+        <Summary label="Sales" value={formatNumber(data.leads.length)} to="/sales/management" />
+        <Summary label="Customers" value={formatNumber(data.cases.length)} to="/customer" />
+        <Summary label="Business signals" value="3" />
       </section>
-      <section className="mt-8 rounded-2xl bg-deep p-6 text-white">
+      <section className="mt-5 grid gap-4 xl:grid-cols-2">
+        <article className="rounded-2xl bg-white p-5 shadow-sm">
+          <div className="mb-3 flex items-center justify-between gap-3">
+            <h2 className="text-lg font-semibold">Delivery</h2>
+            <Link to="/projects" className="text-sm font-semibold text-axiom">Project Intelligence</Link>
+          </div>
+          <GroupedBars
+            height={240}
+            data={projectSnapshots(data).map((item) => ({
+              name: shortName(item.project.Project_Name),
+              Planned: item.project.Planned_Progress_Pct,
+              Actual: item.project.Actual_Progress_Pct,
+            }))}
+            series={[{ key: 'Planned', color: '#c4b5e0' }, { key: 'Actual', color: '#5b35c5' }]}
+          />
+        </article>
+        <article className="rounded-2xl bg-white p-5 shadow-sm">
+          <div className="mb-3 flex items-center justify-between gap-3">
+            <h2 className="text-lg font-semibold">Customer themes</h2>
+            <Link to="/customer" className="text-sm font-semibold text-axiom">Customer Intelligence</Link>
+          </div>
+          <GroupedBars
+            height={240}
+            data={themeStats(data).map((theme) => ({ name: theme.theme, Previous: theme.previous, Current: theme.current }))}
+            series={[{ key: 'Previous', color: '#c4b5e0' }, { key: 'Current', color: '#5b35c5' }]}
+          />
+        </article>
+      </section>
+      <section className="mt-4 rounded-2xl bg-white p-5 shadow-sm">
+        <div className="mb-3 flex items-center justify-between gap-3">
+          <h2 className="text-lg font-semibold">Sales inquiries</h2>
+          <Link to="/sales/management" className="text-sm font-semibold text-axiom">Sales management</Link>
+        </div>
+        <GroupedBars
+          height={240}
+          data={inquiryChart}
+          series={[{ key: previousLabel, color: '#c4b5e0' }, { key: currentLabel, color: '#5b35c5' }]}
+        />
+      </section>
+      <section className="mt-8 rounded-2xl bg-axiom p-6 text-white">
         <h2 className="text-3xl font-semibold">Ask CLI Intelligence</h2>
         <div className="mt-4 flex flex-wrap gap-2">
           {MANAGEMENT_QUESTIONS.map((question) => (
@@ -99,11 +151,19 @@ export function ManagementPage() {
   )
 }
 
-function Summary({ label, value }: { label: string; value: string }) {
-  return (
-    <article className="rounded-2xl bg-white p-5 shadow-sm">
+function monthLabel(month: string) {
+  const [year, monthNumber] = month.split('-')
+  const names = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
+  return `${names[Number(monthNumber) - 1] ?? month} ${year ?? ''}`
+}
+
+function Summary({ label, value, to }: { label: string; value: string; to?: string }) {
+  const body = (
+    <>
       <p className="text-sm text-muted">{label}</p>
       <p className="mt-1 text-3xl font-semibold">{value}</p>
-    </article>
+    </>
   )
+  if (!to) return <article className="rounded-2xl bg-white p-5 shadow-sm">{body}</article>
+  return <Link to={to} className="rounded-2xl bg-white p-5 shadow-sm">{body}</Link>
 }

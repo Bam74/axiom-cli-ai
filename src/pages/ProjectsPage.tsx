@@ -1,7 +1,8 @@
-import { Link, useNavigate, useParams } from 'react-router-dom'
 import { useEffect, useState } from 'react'
-import { formatLongDate, formatPct } from '../format.ts'
-import { approvedDocuments, issuesFor, milestonesFor, projectSnapshots } from '../data/metrics.ts'
+import { Link, useNavigate, useParams } from 'react-router-dom'
+import { GroupedBars } from '../components/charts.tsx'
+import { approvedDocuments, attentionCount, issuesFor, milestonesFor, projectSnapshots } from '../data/metrics.ts'
+import { formatLongDate, formatNumber, formatPct, shortName } from '../format.ts'
 import { buildChangeReport, buildExecutiveUpdate, buildProjectBrief } from '../services/ai.ts'
 import { useData } from '../state/data.tsx'
 import { useDemo } from '../state/demo.tsx'
@@ -13,9 +14,26 @@ export function ProjectsPage() {
   const demo = useDemo()
   const navigate = useNavigate()
   const snapshots = projectSnapshots(data)
+  const behind = snapshots.filter((item) => item.project.Actual_Progress_Pct < item.project.Planned_Progress_Pct).length
+  const amber = snapshots.filter((item) => item.project.Overall_Status === 'AMBER').length
+  const chart = snapshots.map((item) => ({
+    name: shortName(item.project.Project_Name),
+    Planned: item.project.Planned_Progress_Pct,
+    Actual: item.project.Actual_Progress_Pct,
+  }))
   return (
     <div>
       <PageIntro title="Project Intelligence" subtitle="Portfolio status with the records behind each project." />
+      <section className="mb-5 grid gap-4 sm:grid-cols-2 xl:grid-cols-4">
+        <article className="rounded-2xl bg-white p-5 shadow-sm"><p className="text-sm text-muted">Active projects</p><p className="mt-1 text-3xl font-semibold">{formatNumber(snapshots.length)}</p></article>
+        <article className="rounded-2xl bg-white p-5 shadow-sm"><p className="text-sm text-muted">Behind plan</p><p className="mt-1 text-3xl font-semibold">{formatNumber(behind)}</p></article>
+        <article className="rounded-2xl bg-white p-5 shadow-sm"><p className="text-sm text-muted">Amber status</p><p className="mt-1 text-3xl font-semibold">{formatNumber(amber)}</p></article>
+        <article className="rounded-2xl bg-white p-5 shadow-sm"><p className="text-sm text-muted">Open high and critical issues</p><p className="mt-1 text-3xl font-semibold">{formatNumber(attentionCount(data))}</p></article>
+      </section>
+      <section className="mb-5 rounded-2xl bg-white p-5 shadow-sm">
+        <h2 className="mb-3 text-lg font-semibold">Actual progress against plan</h2>
+        <GroupedBars data={chart} series={[{ key: 'Planned', color: '#c4b5e0' }, { key: 'Actual', color: '#5b35c5' }]} />
+      </section>
       <div className="grid gap-4 lg:grid-cols-2">
         {snapshots.map((snapshot) => {
           const project = snapshot.project

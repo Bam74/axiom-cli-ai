@@ -1,6 +1,7 @@
 import { useNavigate } from 'react-router-dom'
-import { formatNumber, formatPct } from '../format.ts'
-import { attentionCount, deliverySignal, emergingSalesSignal, waterPattern } from '../data/metrics.ts'
+import { GroupedBars } from '../components/charts.tsx'
+import { attentionCount, deliverySignal, emergingSalesSignal, projectSnapshots, themeStats, waterPattern } from '../data/metrics.ts'
+import { formatNumber, formatPct, shortName } from '../format.ts'
 import { useDemo } from '../state/demo.tsx'
 import { useData } from '../state/data.tsx'
 import { StatusPill } from '../components/ui.tsx'
@@ -48,6 +49,28 @@ export function OverviewPage() {
         ))}
       </section>
       <p className="mt-2 text-sm text-muted">Items requiring attention are open High and Critical project issues.</p>
+      <section className="mt-6 grid gap-4 xl:grid-cols-2">
+        <article className="rounded-2xl bg-white p-5 shadow-sm">
+          <h2 className="mb-3 text-lg font-semibold">Portfolio progress</h2>
+          <GroupedBars
+            height={260}
+            data={projectSnapshots(data).map((item) => ({
+              name: shortName(item.project.Project_Name),
+              Planned: item.project.Planned_Progress_Pct,
+              Actual: item.project.Actual_Progress_Pct,
+            }))}
+            series={[{ key: 'Planned', color: '#c4b5e0' }, { key: 'Actual', color: '#5b35c5' }]}
+          />
+        </article>
+        <article className="rounded-2xl bg-white p-5 shadow-sm">
+          <h2 className="mb-3 text-lg font-semibold">Customer themes</h2>
+          <GroupedBars
+            height={260}
+            data={themeStats(data).map((theme) => ({ name: theme.theme, Previous: theme.previous, Current: theme.current }))}
+            series={[{ key: 'Previous', color: '#c4b5e0' }, { key: 'Current', color: '#5b35c5' }]}
+          />
+        </article>
+      </section>
       <h2 className="mb-4 mt-8 text-2xl font-semibold">Today's Enterprise Signals</h2>
       <section className="grid gap-4 lg:grid-cols-3">
         {delivery && (

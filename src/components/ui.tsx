@@ -1,6 +1,7 @@
 import { createContext, useContext, useState, type ReactNode } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { formatLongDate, statusTone, type StatusTone } from '../format.ts'
+import { stageLook } from '../stages.ts'
 import { runStages } from '../services/ai.ts'
 import { useData } from '../state/data.tsx'
 import { useDemo } from '../state/demo.tsx'
@@ -17,19 +18,29 @@ export function StatusPill({ value }: { value: string }) {
   return <span className={`inline-flex rounded-full px-3 py-1 text-sm font-semibold ${toneClass[statusTone(value)]}`}>{value}</span>
 }
 
+export function StageChip({ value }: { value: string }) {
+  const look = stageLook(value)
+  return (
+    <span className="inline-flex items-center gap-1.5 rounded-full px-3 py-1 text-sm font-semibold" style={{ background: look.soft, color: look.ink }}>
+      <span className="h-2 w-2 rounded-full" style={{ background: look.bar }} />
+      {value}
+    </span>
+  )
+}
+
 export function PageIntro({ title, subtitle }: { title: string; subtitle?: string }) {
   return (
     <header className="mb-6">
       <h1 className="text-3xl font-semibold tracking-tight text-ink md:text-4xl">{title}</h1>
       {subtitle && <p className="mt-2 max-w-3xl text-lg text-muted">{subtitle}</p>}
-      <p className="mt-3 text-sm font-medium text-axiom">AI identifies patterns, options, and drafts. People decide causes, commitments, and actions.</p>
+      <p className="mt-3 text-sm text-muted">AI identifies patterns, options, and drafts. People decide causes, commitments, and actions.</p>
     </header>
   )
 }
 
 export function PrimaryButton({ children, onClick, disabled }: { children: ReactNode; onClick?: () => void; disabled?: boolean }) {
   return (
-    <button type="button" onClick={onClick} disabled={disabled} className="rounded-xl bg-axiom px-4 py-3 text-base font-semibold text-white shadow-sm transition hover:bg-axiom-2 disabled:cursor-not-allowed disabled:opacity-50">
+    <button type="button" onClick={onClick} disabled={disabled} className="min-h-11 rounded-xl bg-axiom px-4 py-3 text-base font-semibold text-white shadow-sm transition hover:bg-axiom-2 active:scale-[0.98] disabled:cursor-not-allowed disabled:opacity-50">
       {children}
     </button>
   )
@@ -37,7 +48,7 @@ export function PrimaryButton({ children, onClick, disabled }: { children: React
 
 export function SecondaryButton({ children, onClick, disabled }: { children: ReactNode; onClick?: () => void; disabled?: boolean }) {
   return (
-    <button type="button" onClick={onClick} disabled={disabled} className="rounded-xl border border-line bg-white px-4 py-3 text-base font-semibold text-ink transition hover:border-axiom disabled:cursor-not-allowed disabled:opacity-50">
+    <button type="button" onClick={onClick} disabled={disabled} className="min-h-11 rounded-xl bg-fill px-4 py-3 text-base font-semibold text-ink transition hover:bg-black/10 active:scale-[0.98] disabled:cursor-not-allowed disabled:opacity-50">
       {children}
     </button>
   )

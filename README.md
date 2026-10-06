@@ -35,7 +35,7 @@ Factual figures are calculated from those files. Narrative outputs explain those
 
 ## Publish
 
-The repository includes a GitHub Actions workflow that publishes the static build to GitHub Pages on every push to `main`. The site is served from `/axiom-cli-ai/`.
+The repository includes a GitHub Actions workflow that publishes the static build to GitHub Pages on every push to `main`. The site is served at the root of `https://axiom-cli-ai.axiomph.com`. DNS for that host should point at the GitHub Pages target for this repository.
 
 ```bash
 gh repo create axiom-cli-ai --public --source=. --remote=origin --push
